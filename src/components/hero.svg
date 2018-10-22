@@ -1,6 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6026 1204">
   <defs>
     <style>
+
+      .cls-12{
+        animation: 80s spin infinite;
+        transform-origin: 3384px 1058px;
+        -webkit-animation-timing-function: linear;
+      }
+
+      .cls-10{
+        animation: 80s spin infinite reverse;
+        transform-origin: 3384px 1058px;
+        -webkit-animation-timing-function: linear;
+      }
+
+      @keyframes spin{
+        from{
+          transform: rotate(0deg)
+        }
+        to{
+          transform: rotate(360deg)
+        }
+      }
+
       .cls-1 {
         isolation: isolate;
       }
