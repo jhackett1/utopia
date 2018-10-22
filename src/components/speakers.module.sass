@@ -1,0 +1,51 @@
+@import './variables.sass'
+    
+.section-title
+    composes: sectionTitle from './variables.sass'
+
+.inner
+    composes: container from './variables.sass'
+    padding: 40px 18px
+    @media screen and (min-width: 600px)
+        padding: 60px 18px
+    @media screen and (min-width: 900px)
+        padding: 100px 18px
+    max-width: 750px
+
+.list
+    list-style-type: none
+    margin: 0
+    padding: 0
+    @media screen and (min-width: 500px)
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-column-gap: 40px
+        grid-row-gap: 55px
+    @media screen and (min-width: 800px)
+        grid-template-columns: 1fr 1fr 1fr
+
+.item
+    margin-bottom: 40px
+    @media screen and (min-width: 500px)
+        margin-bottom: 0px
+
+
+.more-speakers
+    display: flex
+    flex-direction: column
+    justify-content: center
+    text-align: center
+    align-items: center
+
+.more-speakers-number
+    font-size: 6em
+    color: $blue
+    font-weight: bold
+    margin-bottom: 0
+
+.more-speakers-text
+    color: $midgrey
+    font-style: italic
+    max-width: 220px
+    margin-top: 0
+    

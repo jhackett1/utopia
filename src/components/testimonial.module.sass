@@ -1,0 +1,42 @@
+@import './variables.sass'
+    
+.testimonial
+    background: linear-gradient(to right, darken($blue, 5), darken($darkblue, 5))
+    position: relative
+
+.background
+    background-image: url('./testimonial.jpg')
+    position: absolute
+    top: 0
+    right: 0
+    left: 0
+    bottom: 0
+    background-position: center
+    background-size: cover
+    filter: saturate(0)
+    mix-blend-mode: overlay
+    background-blend-mode: overlay
+    z-index: 1
+    
+.inner
+    max-width: 700px
+    width: 100%
+    margin: 0 auto
+    padding: 140px 18px
+    z-index: 2
+    position: relative
+
+.blockquote
+    color: white
+    font-weight: bold
+    font-size: 1.8em
+    margin: 0
+    padding: 0
+    text-shadow: 0px 0px 50px $blue
+
+.blockquote-text
+    margin-top: 0
+
+.citation
+    color: white
+    text-shadow: 0px 0px 50px $blue

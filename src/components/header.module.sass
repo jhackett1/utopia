@@ -1,0 +1,17 @@
+.header
+    composes: container from './variables.sass'
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: center
+    padding: 18px
+
+.logo
+    max-width: 125px
+    width: 100%
+    height: auto
+
+.nav
+    display: none
+    @media screen and (min-width: 600px)
+        display: inherit
