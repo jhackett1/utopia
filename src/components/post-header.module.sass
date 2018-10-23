@@ -1,0 +1,28 @@
+@import 'helpers'
+
+.constrainedWidth
+    @media screen and (min-width: 700px)
+        width: 66%
+
+.post-header
+    composes: wideContainer from './helpers.sass'
+    padding-top: 20px
+    padding-bottom: 40px
+    @media screen and (min-width: 700px)
+        padding-top: 40px
+
+.time
+    margin: 0px 0px 10px 0px
+    composes: constrainedWidth
+    @media screen and (min-width: 700px)
+        font-size: 1.1em
+
+.title
+    margin: 0
+    font-size: 2em
+    line-height: 1.3em
+    composes: constrainedWidth
+    @media screen and (min-width: 700px)
+        font-size: 2.5em
+    @media screen and (min-width: 900px)
+        font-size: 3em
