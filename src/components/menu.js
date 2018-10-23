@@ -23,7 +23,7 @@ const Menu = ({loggedIn}) =>
                 <MenuItem href="/info" label="Info"/>
             </>
         : 
-            <MenuItem href="/register" label="Register"/>
+            <MenuItem href="#register" label="Register"/>
         }
     </ul>
 

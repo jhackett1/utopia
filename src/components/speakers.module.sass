@@ -9,7 +9,7 @@
         padding-bottom: 110px
 
 .inner
-    composes: narrowContainer from './helpers.sass'
+    composes: wideContainer from './helpers.sass'
 
 .section-title
     composes: sectionTitle from './helpers.sass'
@@ -49,4 +49,5 @@
     font-size: 0.9em
     max-width: 220px
     margin-top: 0
-    
+    @media screen and (min-width: 1400px)
+        font-size: 1em
