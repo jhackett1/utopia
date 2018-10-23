@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 
 import styles from './menu.module.sass'
@@ -24,17 +23,8 @@ const Menu = ({loggedIn}) =>
                 <MenuItem href="/info" label="Info"/>
             </>
         : 
-            <MenuItem href="/attendees" label="Attendees"/>
+            <MenuItem href="/register" label="Register"/>
         }
     </ul>
-
-MenuItem.propTypes = {
-        href: PropTypes.string.isRequired,
-        label: PropTypes.string.isRequired,
-    }
-
-Menu.propTypes = {
-        loggedIn: PropTypes.bool,
-    }
 
 export default Menu

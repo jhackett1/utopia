@@ -1,2 +1,31 @@
+@import 'helpers.sass'
+    
 .footer
-    background: #f7f7f7
+    background: $lightgrey
+    padding-top: 60px
+    padding-bottom: 20px
+    @media screen and (min-width: 700px)
+        padding-top: 80px
+        padding-bottom: 80px
+
+.inner
+    composes: wideContainer from './helpers.sass'
+    @media screen and (min-width: 700px)
+        display: flex
+        justify-content: space-between
+
+.menus
+    margin-bottom: 30px
+    @media screen and (min-width: 700px)
+        order: 2
+
+.info
+    color: transparentize($darkgrey, 0.5)
+    font-size: 0.9em
+    p
+        margin-top: 0px
+        margin-bottom: 0px
+        &:first-of-type
+            margin-bottom: 20px
+    a
+        color: transparentize($darkgrey, 0.5)

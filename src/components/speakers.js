@@ -4,7 +4,7 @@ import Speaker from './speaker'
 import styles from './speakers.module.sass'
 
 export default ({speakers}) =>
-    <section>
+    <section className={styles.speakers}>
         <div className={styles.inner}>
             <h2 className={styles.sectionTitle}>Speakers</h2>
             <ul className={styles.list}>
@@ -19,7 +19,7 @@ export default ({speakers}) =>
                     </li>
                 )}
                 <li className={styles.moreSpeakers}>
-                    <span className={styles.moreSpeakersNumber}>15</span>
+                    <span className={styles.moreSpeakersNumber}>+15</span>
                     <p className={styles.moreSpeakersText}>More speakers from across the public and private sectors</p>
                 </li>
             </ul>

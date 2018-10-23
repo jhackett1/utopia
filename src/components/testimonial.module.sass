@@ -1,8 +1,13 @@
-@import './variables.sass'
+@import 'helpers.sass'
     
 .testimonial
-    background: linear-gradient(to right, darken($blue, 5), darken($darkblue, 5))
+    background: $blue
     position: relative
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
 
 .background
     background-image: url('./testimonial.jpg')
@@ -17,26 +22,37 @@
     mix-blend-mode: overlay
     background-blend-mode: overlay
     z-index: 1
+    opacity: 0.3
     
 .inner
-    max-width: 700px
-    width: 100%
-    margin: 0 auto
-    padding: 140px 18px
+    composes: narrowContainer from './helpers.sass'
     z-index: 2
     position: relative
 
 .blockquote
-    color: white
-    font-weight: bold
-    font-size: 1.8em
     margin: 0
     padding: 0
-    text-shadow: 0px 0px 50px $blue
+    // text-align: center
 
 .blockquote-text
-    margin-top: 0
+    margin: 0
+    line-height: 1.4em
+    letter-spacing: 0.5px
+    font-size: 1.8em
+    font-weight: bold
+    color: white
+    @media screen and (min-width: 700px)
+        font-size: 2.2em
 
 .citation
     color: white
-    text-shadow: 0px 0px 50px $blue
+    font-style: normal
+    // text-align: center
+
+.name
+    font-size: 1.2em
+    font-weight: bold
+    margin-bottom: 2px
+
+.role
+    margin-top: 0px

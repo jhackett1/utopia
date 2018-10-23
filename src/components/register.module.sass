@@ -1,0 +1,19 @@
+@import 'helpers.sass'
+
+.register
+    composes: wideContainer from './helpers.sass'
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
+
+.section-title
+    composes: sectionTitle from './helpers.sass'
+    margin-bottom: 20px
+
+.lede
+    text-align: center
+    max-width: 750px
+    margin: 0 auto 60px auto
+    color: $darkgrey

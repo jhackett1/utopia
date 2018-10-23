@@ -1,0 +1,72 @@
+@import 'helpers.sass'
+
+.constrainedWidth
+    @media screen and (min-width: 700px)
+        width: 55%
+
+.explanation
+    composes: wideContainer from './helpers.sass'
+    padding-bottom: 70px
+    @media screen and (min-width: 700px)
+        padding-top: 60px
+        padding-bottom: 110px
+
+.headline
+    color: $darkgrey
+    font-size: 2em
+    line-height: 1.3em
+    margin-bottom: 10px
+    composes: constrainedWidth
+    @media screen and (min-width: 700px)
+        text-align: right
+        margin-left: auto
+
+.description
+    color: $darkgrey
+    margin-bottom: 30px
+    composes: constrainedWidth
+    @media screen and (min-width: 700px)
+        text-align: right
+        margin-left: auto
+        margin-bottom: 40px
+
+.time-place
+    list-style: none
+    margin: 0
+    padding: 0
+    @media screen and (min-width: 700px)
+        display: flex
+        justify-content: flex-end
+
+.item
+    display: flex
+    &:first-of-type
+        margin-bottom: 20px
+    @media screen and (min-width: 700px)
+        &:first-of-type
+            margin-bottom: 0px
+            margin-right: 40px
+
+.icon
+    width: 50px
+    height: 50px
+    padding: 13px
+    border-radius: 2px
+    background: $blue
+    margin-right: 15px
+    @media screen and (min-width: 700px)
+        order: 2
+        margin-left: 15px
+        margin-right: 0px
+
+.where-when
+    margin-top: 0px
+    margin-bottom: 0px
+    color: $darkgrey
+    @media screen and (min-width: 700px)
+        text-align: right
+
+.content
+    margin-top: 7px
+    margin-bottom: 0px
+    color: $darkgrey

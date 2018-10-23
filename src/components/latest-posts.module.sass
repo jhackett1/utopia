@@ -1,16 +1,15 @@
-@import './variables.sass'
+@import 'helpers.sass'
     
 .section-title
-    composes: sectionTitle from './variables.sass'
+    composes: sectionTitle from './helpers.sass'
 
-.inner
-    composes: container from './variables.sass'
-    padding: 40px 18px
-    @media screen and (min-width: 600px)
-        padding: 60px 18px
-    @media screen and (min-width: 900px)
-        padding: 100px 18px
-    max-width: 700px
+.latest-posts
+    composes: narrowContainer from './helpers.sass'
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
 
 .post-list
     margin: 0
@@ -19,6 +18,8 @@
 
 .post-item
     margin-bottom: 50px
+    &:last-of-type
+        margin-bottom: 0px
 
 .post-meta
     display: flex
@@ -31,16 +32,13 @@
     margin-bottom: 0px
     line-height: 1.4em
     font-size: 1.3em
+    color: $darkgrey
     @media screen and (min-width: 700px)
         font-size: 1.8em
 
 .post-date
-    color: $midgrey
-
-.post-link
-    text-transform: uppercase
-    color: $blue
-    letter-spacing: 2px
-    text-decoration: none
-    font-weight: bold
     font-size: 0.9em
+
+.inline-link
+    composes: inlineLink from './helpers.sass'
+    color: $blue

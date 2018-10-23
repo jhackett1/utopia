@@ -1,0 +1,56 @@
+// Color scheme
+$darkestblue: #135056
+$darkblue: #68A5DE
+$blue: #1dcbda
+
+$darkgrey: #272727
+$lightgrey: #f7f7f7
+
+
+// Animations
+@keyframes slideIn
+    from
+        width: 0%
+    to
+        width: 100%
+
+@keyframes fadeIn
+    from
+        opacity: 0
+    to
+        opacity: 1
+
+
+// Constrained widths
+.wide-container
+    max-width: 1000px
+    width: 100%
+    margin: 0px auto
+    padding: 0px 20px
+
+.narrow-container
+    max-width: 750px
+    width: 100%
+    margin: 0px auto
+    padding: 0px 20px
+
+
+// Section titles
+.section-title
+    text-align: center
+    font-size: 2em
+    margin-top: 0px
+    margin-bottom: 60px
+    color: $darkgrey
+    @media screen and (min-width: 500px)
+        font-size: 2.5em
+    @media screen and (min-width: 800px)
+        font-size: 2.8em
+
+// Inline links
+.inline-link
+    text-transform: uppercase
+    letter-spacing: 2px
+    text-decoration: none
+    font-weight: bold
+    font-size: 0.9em
