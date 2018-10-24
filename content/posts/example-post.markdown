@@ -1,6 +1,6 @@
 ---
 title: Example blog post
-time: 2018-10-24T23:33:26.307Z
+date: 2018-10-24T23:33:26.307Z
 ---
 This is an example blog post.
 
@@ -9,7 +9,6 @@ This is an example blog post.
 **Nam vitae interdum purus.** Donec iaculis eleifend libero, ultricies condimentum orci pretium ac. Donec sit amet mi vitae libero posuere rhoncus ut vitae neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
 Cras et varius magna, sit amet consequat augue. Etiam suscipit elit velit, a congue ex accumsan eu. Sed suscipit convallis leo, quis faucibus urna pharetra lobortis.
-
 
 
 ## Morbi dictum, ante ut rhoncus pulvinar
