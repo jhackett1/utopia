@@ -1,6 +1,8 @@
-import React from 'react'
-import Layout from '../components/layout'
 
+import React from 'react'
+import { graphql } from 'gatsby'
+
+import Layout from '../components/layout'
 import Hero from '../components/hero'
 import Explanation from '../components/explanation'
 import Speakers from '../components/speakers'
@@ -9,7 +11,7 @@ import LatestPosts from '../components/latest-posts'
 import Venue from '../components/venue'
 import Register from '../components/register'
 
-const IndexPage = () => (
+const IndexPage = ({ data }) => (
   <Layout>
     <Hero/>
     <Explanation/>
@@ -41,18 +43,7 @@ const IndexPage = () => (
     }]}/>
     <Testimonial/>
     <LatestPosts
-      posts={[
-        {
-          title: "A faster and more flexible home page that delivers the news readers want",
-          href: "#"
-        }, {
-          title: "Home page that delivers the news readers want",
-          href: "#"
-        }, {
-          title: "A faster and more flexible home page that delivers the news readers want",
-          href: "#"
-        }
-      ]}
+      posts={data.posts.edges}
       />
     <Venue/>
     <Register>
@@ -62,3 +53,21 @@ const IndexPage = () => (
 )
 
 export default IndexPage
+
+export const pageQuery = graphql`
+  query homepageQuery {
+    posts: allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] },
+      limit: 3
+    ) {
+      edges {
+        node {
+          frontmatter {
+            date
+            title
+          }
+        }
+      }
+    }
+  }
+`

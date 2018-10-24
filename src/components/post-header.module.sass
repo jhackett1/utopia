@@ -7,22 +7,32 @@
 .post-header
     composes: wideContainer from './helpers.sass'
     padding-top: 20px
-    padding-bottom: 40px
+    padding-bottom: 20px
     @media screen and (min-width: 700px)
         padding-top: 40px
+        padding-bottom: 40px
+    @media screen and (min-width: 1400px)
+        padding-top: 60px
+        padding-bottom: 60px
 
 .time
     margin: 0px 0px 10px 0px
     composes: constrainedWidth
+    color: $darkgrey
     @media screen and (min-width: 700px)
         font-size: 1.1em
+    @media screen and (min-width: 1400px)
+        font-size: 1.2em
 
 .title
     margin: 0
     font-size: 2em
     line-height: 1.3em
     composes: constrainedWidth
+    color: $darkgrey
     @media screen and (min-width: 700px)
         font-size: 2.5em
     @media screen and (min-width: 900px)
         font-size: 3em
+    @media screen and (min-width: 1400px)
+        font-size: 3.5em

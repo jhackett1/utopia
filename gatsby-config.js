@@ -12,6 +12,14 @@ module.exports = {
           `Ubuntu:300,400,700`
         ]
       }
-    }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/content/posts`,
+        name: "posts",
+      },
+    },
+    `gatsby-transformer-remark`
   ],
 }
