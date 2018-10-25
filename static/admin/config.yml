@@ -38,6 +38,61 @@ collections:
     editor:
       preview: false
 
+  # Info
+  - name: "info"
+    extension: "markdown"
+    label: "Info"
+    folder: "content/info"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: "number", min: 0, valueType: "int", hint: "The lower the number, the higher this info snippet will appear"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    editor:
+      preview: false
+
+  # Event
+  - name: "event"
+    extension: "markdown"
+    label: "Events"
+    folder: "content/event"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title"}
+      - {label: "Strand", name: "strand", widget: "relation", collection: "strand", valueField: "title"}
+      - {label: "Speaker", name: "speaker", widget: "relation", collection: "speaker", valueField: "title"}
+      - {label: "Slides", name: "slides", widget: "files"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    editor:
+      preview: false
+
+  # Strand
+  - name: "strand"
+    extension: "markdown"
+    label: "Strands"
+    folder: "content/strand"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+    editor:
+      preview: false
+
+  # Venue
+  - name: "venue"
+    extension: "markdown"
+    label: "Venues"
+    folder: "content/venue"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+    editor:
+      preview: false
+
   # Unique pages
   - label: "Pages"
     name: "pages"
@@ -48,7 +103,7 @@ collections:
         name: "home"
         file: "content/pages/index.markdown"
         fields:
-          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
+          - {label: "Title", name: "title", widget: "hidden", default: "index"}
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Subheadline", name: "subheadline", widget: "string"}
           - {label: "Headline", name: "explanationHeadline", widget: "string"}
@@ -66,19 +121,19 @@ collections:
         name: "speakers"
         file: "content/pages/speakers.markdown"
         fields:
-          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
+          - {label: "Title", name: "title", widget: "hidden", default: "speakers"}
           - {label: "Lede", name: "lede", widget: "string"}
 
       - label: "Blog page"
         name: "blog"
         file: "content/pages/blog.markdown"
         fields:
-          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
+          - {label: "Title", name: "title", widget: "hidden", default: "blog"}
           - {label: "Lede", name: "lede", widget: "string"}
 
       - label: "Privacy notice"
         name: "privacy-policy"
         file: "content/pages/privacy-notice.markdown"
         fields:
-          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
+          - {label: "Title", name: "title", widget: "hidden", default: "privacy-notice"}
           - {label: "Body", name: "body", widget: "markdown"}
