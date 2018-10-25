@@ -70,3 +70,8 @@ collections:
         file: "content/pages/blog.markdown"
         fields:
           - {label: "Lede", name: "lede", widget: "string"}
+      - label: "Privacy notice"
+        name: "blog"
+        file: "content/pages/privacy-notice.markdown"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
