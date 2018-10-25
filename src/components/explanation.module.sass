@@ -2,7 +2,7 @@
 
 .constrainedWidth
     @media screen and (min-width: 700px)
-        width: 55%
+        width: 70%
 
 .explanation
     composes: wideContainer from './helpers.sass'
@@ -31,11 +31,14 @@
 .description
     color: $darkgrey
     margin-bottom: 30px
-    composes: constrainedWidth
+    // composes: constrainedWidth
+    // .constrainedWidth
+    @media screen and (min-width: 700px)
+        width: 50%
     @media screen and (min-width: 700px)
         text-align: right
         margin-left: auto
-        margin-bottom: 40px
+        margin-bottom: 50px
     @media screen and (min-width: 1400px)
         font-size: 1.1em
 

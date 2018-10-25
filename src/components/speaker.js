@@ -9,8 +9,18 @@ export default ({
     role,
     href
 }) =>
-    <Link className={styles.link} to={href}>
-        <img className={styles.avatar} src={avatarSrc} alt={`${name}'s avatar`}/>
-        <h4 className={styles.name}>{name}</h4>
-        <p className={styles.role}>{role}</p>
-    </Link>
+    <>
+        {(href)? 
+            <Link className={styles.link} to={href}>
+                <img className={styles.avatar} src={avatarSrc} alt={`${name}'s avatar`}/>
+                <h4 className={styles.name}>{name}</h4>
+                <p className={styles.role}>{role}</p>
+            </Link>
+        :
+            <div className={styles.link}>
+                <img className={styles.avatar} src={avatarSrc} alt={`${name}'s avatar`}/>
+                <h4 className={styles.name}>{name}</h4>
+                <p className={styles.role}>{role}</p>
+            </div>
+        }
+    </>

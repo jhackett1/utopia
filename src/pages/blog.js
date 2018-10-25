@@ -4,7 +4,9 @@ import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 import PostHeader from '../components/post-header'
-import LatestPosts from '../components/latest-posts'
+import LatestPost from '../components/latest-post'
+
+import styles from './blog.module.sass'
 
 const BlogPage = ({ data }) => {
   return(
@@ -15,10 +17,13 @@ const BlogPage = ({ data }) => {
         </Helmet>
         <PostHeader
             title="Blog"
+            lede="Speaker announcements, interviews and other updates from the organisers of Utopia."
             />
-        <LatestPosts
-            posts={data.posts.edges}
-            />
+            <ul className={styles.latestPosts}>
+                {data.posts.edges.map( (post, i) =>
+                    <LatestPost post={post} key={i}/>
+                )}
+            </ul>
     </Layout>
   )
 }

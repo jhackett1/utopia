@@ -4,7 +4,9 @@ import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 import PostHeader from '../components/post-header'
-import Speakers from '../components/speakers'
+import Speaker from '../components/speaker'
+
+import styles from './all-speakers.module.sass'
 
 const SpeakersPage = ({ data }) => {
   return(
@@ -14,9 +16,20 @@ const SpeakersPage = ({ data }) => {
         >
       </Helmet>
       <PostHeader
-          title="Speakers"
-          />
-      <Speakers speakers={data.speakers.edges}/>
+        title="Speakers"
+        lede="We’re welcoming over 15 speakers from across the public and private sectors."
+        />
+      <ul className={styles.allSpeakers}>
+        {(data.speakers.edges.map((speaker, i)=>
+          <li className={styles.speaker} key={i}>
+            <Speaker
+              avatarSrc={speaker.node.frontmatter.image}
+              name={speaker.node.frontmatter.title}
+              role={speaker.node.frontmatter.role}
+              />
+          </li>
+        ))}
+      </ul>
     </Layout>
   )
 }

@@ -9,9 +9,17 @@
         padding-bottom: 110px
 
 .section-title
-    composes: sectionTitle from './helpers.sass'
+    text-align: center
+    font-size: 2em
+    margin-top: 0px
     margin-bottom: 20px
     color: $darkgrey
+    @media screen and (min-width: 500px)
+        font-size: 2.5em
+    @media screen and (min-width: 800px)
+        font-size: 2.8em
+    @media screen and (min-width: 1400px)
+        font-size: 3em
     
 .lede
     text-align: center
