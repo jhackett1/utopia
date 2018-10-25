@@ -14,7 +14,11 @@ export default () =>
             </aside>
             <aside className={styles.info}>
                 <p>© Utopia 2019, all rights reserved</p>
-                <p>Designed and developed by <a href="http://joshuahackett.com" target="blank">Joshua Hackett</a> <br/><Link to="#">Privacy notice</Link> <a href="/admin">Admin</a></p>
+                <p>
+                    Designed and developed by <a href="http://joshuahackett.com" target="blank">Joshua Hackett</a><br/>
+                    <Link to="/privacy-notice">How we use your data</Link> 
+                    <a href="/admin">Admin</a>
+                </p>
             </aside>
         </div>
     </footer>
