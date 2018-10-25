@@ -17,7 +17,7 @@ const BlogPage = ({ data }) => {
         </Helmet>
         <PostHeader
             title="Blog"
-            lede="Speaker announcements, interviews and other updates from the organisers of Utopia."
+            lede={data.blogPage.frontmatter.lede}
             />
             <ul className={styles.latestPosts}>
                 {data.posts.edges.map( (post, i) =>
@@ -36,6 +36,11 @@ export const pageQuery = graphql`
         siteMetadata {
             title
         }
+    }
+    blogPage: markdownRemark(frontmatter: {title: {eq: "blog"}}) {
+      frontmatter {
+        lede
+      }
     }
     posts: allMarkdownRemark(
         filter: {fileAbsolutePath: {regex: "/posts/.*$/"}},

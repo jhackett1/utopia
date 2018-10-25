@@ -17,7 +17,7 @@ const SpeakersPage = ({ data }) => {
       </Helmet>
       <PostHeader
         title="Speakers"
-        lede="We’re welcoming over 15 speakers from across the public and private sectors."
+        lede={data.speakersPage.frontmatter.lede}
         />
       <ul className={styles.allSpeakers}>
         {(data.speakers.edges.map((speaker, i)=>
@@ -42,6 +42,11 @@ export const pageQuery = graphql`
         siteMetadata {
             title
         }
+    }
+    speakersPage: markdownRemark(frontmatter: {title: {eq: "speakers"}}) {
+      frontmatter {
+        lede
+      }
     }
     speakers: allMarkdownRemark(
       filter: {fileAbsolutePath: {regex: "/speakers/.*$/"}},
