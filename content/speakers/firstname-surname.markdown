@@ -1,6 +1,6 @@
 ---
 title: Firstname Surname
-role: 'Head of Things, Company Ltd'
+role: Lorem ipsum dolor
 image: /uploads/img_0063.jpg
 order: 1
 ---

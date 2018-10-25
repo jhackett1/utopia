@@ -1,6 +1,6 @@
 ---
 title: Namey McName
-role: 'Head of things, Company Ltd'
+role: Lorem ipsum dolor
 image: /uploads/img_0063.jpg
 order: 2
 ---
