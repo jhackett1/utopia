@@ -11,7 +11,7 @@ export default ({speakers}) =>
             <ul className={styles.list}>
                 {speakers.map((speaker, i)=>
                     <li className={styles.item} key={i}>
-                        <ScrollAnimation animateIn="fadeInUp" duration="0.5" animateOnce="true">
+                        <ScrollAnimation animateIn="fadeInUp" duration={0.5} animateOnce={true}>
                             <Speaker
                                 avatarSrc={speaker.node.frontmatter.image}
                                 name={speaker.node.frontmatter.title}

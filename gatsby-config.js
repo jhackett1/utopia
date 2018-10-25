@@ -41,6 +41,12 @@ module.exports = {
         icon: `src/components/favicon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: 'gatsby-plugin-intercom-spa',
+      options: {
+        app_id: "looo03ny"
+      }
+    },
     // `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
