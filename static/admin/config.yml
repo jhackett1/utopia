@@ -47,8 +47,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title", searchField: ["title", "role"]}
-      - {label: "Strand", name: "strand", widget: "relation", collection: "strand", valueField: "title", searchField: ["title", "role"]}
+      - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title", searchField: ["title"]}
+      - {label: "Strand", name: "strand", widget: "relation", collection: "strand", valueField: "title", searchField: ["title"]}
       - {label: "Speaker", name: "speaker", widget: "relation", collection: "speaker", valueField: "title", searchField: ["title", "role"]}
       - {label: "Slides", name: "slides", widget: "file"}
       - {label: "Body", name: "body", widget: "markdown"}
