@@ -47,7 +47,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Speaker", name: "speaker_name", widget: "relation", collection: "speaker", valueField: "title", searchField: ["title"]}
+      - {label: "Speaker", name: "speaker_name", widget: "relation", collection: "speaker", valueField: "title", searchFields: ["title"]}
     editor:
       preview: false
 
