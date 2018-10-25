@@ -56,7 +56,7 @@ collections:
   - name: "event"
     extension: "markdown"
     label: "Events"
-    folder: "content/event"
+    folder: "content/events"
     create: true
     slug: "{{slug}}"
     fields:
@@ -64,7 +64,7 @@ collections:
       - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title"}
       - {label: "Strand", name: "strand", widget: "relation", collection: "strand", valueField: "title"}
       - {label: "Speaker", name: "speaker", widget: "relation", collection: "speaker", valueField: "title"}
-      - {label: "Slides", name: "slides", widget: "files"}
+      - {label: "Slides", name: "slides", widget: "file"}
       - {label: "Body", name: "body", widget: "markdown"}
     editor:
       preview: false
@@ -73,7 +73,7 @@ collections:
   - name: "strand"
     extension: "markdown"
     label: "Strands"
-    folder: "content/strand"
+    folder: "content/strands"
     create: true
     slug: "{{slug}}"
     fields:
@@ -85,7 +85,7 @@ collections:
   - name: "venue"
     extension: "markdown"
     label: "Venues"
-    folder: "content/venue"
+    folder: "content/venues"
     create: true
     slug: "{{slug}}"
     fields:
