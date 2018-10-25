@@ -60,18 +60,21 @@ collections:
           - {label: "Venue address", name: "address", widget: "string"}
           - {label: "Venue info", name: "venueInfo", widget: "string"}
           - {label: "Registration info", name: "venueInfo", widget: "string"}
+
       - label: "Speakers page"
         name: "speakers"
         file: "content/pages/speakers.markdown"
         fields:
           - {label: "Lede", name: "lede", widget: "string"}
+
       - label: "Blog page"
         name: "blog"
         file: "content/pages/blog.markdown"
         fields:
           - {label: "Lede", name: "lede", widget: "string"}
+
       - label: "Privacy notice"
-        name: "blog"
+        name: "privacy-policy"
         file: "content/pages/privacy-notice.markdown"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
