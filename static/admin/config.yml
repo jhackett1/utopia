@@ -48,6 +48,7 @@ collections:
         name: "home"
         file: "content/pages/index.markdown"
         fields:
+          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Subheadline", name: "subheadline", widget: "string"}
           - {label: "Headline", name: "explanationHeadline", widget: "string"}
@@ -65,16 +66,19 @@ collections:
         name: "speakers"
         file: "content/pages/speakers.markdown"
         fields:
+          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
           - {label: "Lede", name: "lede", widget: "string"}
 
       - label: "Blog page"
         name: "blog"
         file: "content/pages/blog.markdown"
         fields:
+          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
           - {label: "Lede", name: "lede", widget: "string"}
 
       - label: "Privacy notice"
         name: "privacy-policy"
         file: "content/pages/privacy-notice.markdown"
         fields:
+          - {label: "Title (do not change)", name: "title", widget: "string", hint: "Don't change this. It'll break things."}
           - {label: "Body", name: "body", widget: "markdown"}

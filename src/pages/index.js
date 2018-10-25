@@ -51,7 +51,7 @@ export default IndexPage
 export const pageQuery = graphql`
 query homepageQuery {
 
-  homepage: markdownRemark(id: {eq: "df491620-6677-504b-944e-7cf90fca81f2"}) {
+  homepage: markdownRemark(frontmatter: {title: {eq: "index"}}) {
     frontmatter {
       headline
       subheadline

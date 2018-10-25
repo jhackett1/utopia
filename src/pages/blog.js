@@ -37,7 +37,7 @@ export const pageQuery = graphql`
             title
         }
     }
-    blogPage: markdownRemark(id: {eq: "d382c176-926d-5a25-bc10-5f51d96230fd"}) {
+    blogPage: markdownRemark(frontmatter: {title: {eq: "blog"}}) {
       frontmatter {
         lede
       }

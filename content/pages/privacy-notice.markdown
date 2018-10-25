@@ -1,3 +1,7 @@
+---
+title: privacy-notice
+---
+
 The _Utopia digital experience_ is built and maintained by fast streamers. We are not affiliated with the Government Digital Service.
 
 We will collect and process some of your personal data in order to deliver the service.
