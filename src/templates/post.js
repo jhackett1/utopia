@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from "gatsby"
 import vagueTime from 'vague-time'
+import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 import PostHeader from '../components/post-header'
@@ -14,6 +15,10 @@ const PostPage = ({ data }) => {
 
   return(
     <Layout>
+      <Helmet
+        title={frontmatter.title}
+        >
+      </Helmet>
       <PostHeader
           title={frontmatter.title}
           time={vagueTime.get({to: new Date(frontmatter.date)})}
