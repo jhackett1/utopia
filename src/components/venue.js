@@ -3,13 +3,16 @@ import Link from 'gatsby-link'
 
 import styles from './venue.module.sass'
 
-export default () =>
+export default ({
+    address,
+    info
+}) =>
     <section className={styles.venue}>
         <aside className={styles.venueText}>
             <h2 className={styles.sectionTitle}>Venue</h2>
-            <h3 className={styles.address}>1 Victoria St, London SW1E 5ND</h3>
-            <p className={styles.venueDescription}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget turpis enim. Lorem ipsum dolor sit amet.</p>
-            <Link className={styles.inlineLink} to="#">Get directions →</Link>
+            <h3 className={styles.address}>{address}</h3>
+            <p className={styles.venueDescription}>{info}</p>
+            <Link className={styles.inlineLink} to="https://www.google.com/maps?ll=51.498861,-0.130278&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&daddr=BEIS+Conference+Center+1+Victoria+St+Westminster,+London+SW1E+5ND@51.4988611,-0.1302776">Get directions →</Link>
         </aside>
         <aside className={styles.mapHolder}>
             <iframe 

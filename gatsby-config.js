@@ -45,6 +45,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `./content/pages`,
+        name: "pages",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `./content/posts`,
         name: "posts",
       },
@@ -53,7 +60,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./content/speakers`,
-        name: "posts",
+        name: "speakers",
       },
     },
     `gatsby-transformer-remark`,
