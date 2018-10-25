@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'gatsby-link'
 
 import styles from './venue.module.sass'
 
@@ -12,7 +11,7 @@ export default ({
             <h2 className={styles.sectionTitle}>Venue</h2>
             <h3 className={styles.address}>{address}</h3>
             <p className={styles.venueDescription}>{info}</p>
-            <Link className={styles.inlineLink} to="https://www.google.com/maps?ll=51.498861,-0.130278&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&daddr=BEIS+Conference+Center+1+Victoria+St+Westminster,+London+SW1E+5ND@51.4988611,-0.1302776">Get directions →</Link>
+            <a className={styles.inlineLink} target="blank" href="https://www.google.com/maps?ll=51.498861,-0.130278&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&daddr=BEIS+Conference+Center+1+Victoria+St+Westminster,+London+SW1E+5ND@51.4988611,-0.1302776">Get directions →</a>
         </aside>
         <aside className={styles.mapHolder}>
             <iframe 

@@ -2,9 +2,9 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
-
 import Header from './header'
 import Footer from './footer'
+import 'animate.css/animate.min.css'
 import './layout.sass'
 
 const Layout = ({ children }) => (
@@ -30,13 +30,11 @@ const Layout = ({ children }) => (
           <html lang="en" />
         </Helmet>
         <Header/>
-        {children}
+          {children}
         <Footer/>
       </>
     )}
   />
 )
-
-
 
 export default Layout

@@ -1,5 +1,6 @@
 import React from 'react'
 import Speaker from './speaker'
+import ScrollAnimation from 'react-animate-on-scroll'
 
 import styles from './speakers.module.sass'
 
@@ -10,12 +11,15 @@ export default ({speakers}) =>
             <ul className={styles.list}>
                 {speakers.map((speaker, i)=>
                     <li className={styles.item} key={i}>
-                        <Speaker
-                            avatarSrc={speaker.node.frontmatter.image}
-                            name={speaker.node.frontmatter.title}
-                            role={speaker.node.frontmatter.role}
-                            href="/speakers"
-                            />
+                        <ScrollAnimation animateIn="fadeInUp" duration="0.5" animateOnce="true">
+                            <Speaker
+                                avatarSrc={speaker.node.frontmatter.image}
+                                name={speaker.node.frontmatter.title}
+                                role={speaker.node.frontmatter.role}
+                                href="/speakers"
+                                />
+                        </ScrollAnimation>
+
                     </li>
                 )}
                 <li className={styles.moreSpeakers}>

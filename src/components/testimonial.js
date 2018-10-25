@@ -1,5 +1,4 @@
 import React from 'react'
-
 import styles from './testimonial.module.sass'
 
 export default ({
@@ -12,7 +11,7 @@ export default ({
         <div className={styles.inner}>
             <blockquote className={styles.blockquote}>
                 <p className={styles.blockquoteText}>
-                “{testimonial}”
+                    “{testimonial}”
                 </p>
             </blockquote>
             <cite className={styles.citation}>

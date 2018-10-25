@@ -13,7 +13,7 @@ export default () =>
                 <Social/>
             </aside>
             <aside className={styles.info}>
-                <p>© Utopia 2019, all rights reserved</p>
+                <p>© Crown copyright, content available under the <a target="blank" href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government License.</a></p>
                 <p>
                     Designed and developed by <a href="http://joshuahackett.com" target="blank">Joshua Hackett</a><br/>
                     <Link to="/privacy-notice">How we use your data</Link> 
