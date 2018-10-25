@@ -5,7 +5,7 @@
     color: $darkgrey
     
 .latest-posts
-    composes: narrowContainer from './helpers.sass'
+    composes: wideContainer from './helpers.sass'
     padding-top: 60px
     padding-bottom: 60px
     @media screen and (min-width: 700px)
@@ -16,24 +16,28 @@
     margin: 0
     padding: 0
     list-style: none
+    @media screen and (min-width: 500px)
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-column-gap: 40px
+        grid-row-gap: 55px
+    @media screen and (min-width: 1400px)
+        grid-template-columns: 1fr 1fr 1fr
 
 .post-item
     margin-bottom: 50px
     &:last-of-type
         margin-bottom: 0px
-
+    @media screen and (min-width: 500px)
+        margin-bottom: 0px
+        
 .post-link
     text-decoration: none
 
-.post-meta
-    display: flex
-    justify-content: space-between
-    align-items: center
-    width: 100%
-
 .post-title
-    font-weight: normal
-    margin-bottom: 0px
+    // font-weight: normal
+    margin-top: 0px
+    margin-bottom: 15px
     line-height: 1.4em
     font-size: 1.3em
     color: $darkgrey
@@ -43,6 +47,7 @@
 .post-date
     font-size: 0.9em
     color: $darkgrey
+    margin-bottom: 5px
     &:first-letter
        text-transform: capitalize
     @media screen and (min-width: 1400px)

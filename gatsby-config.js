@@ -1,11 +1,14 @@
 module.exports = {
   siteMetadata: {
     title: 'Utopia',
+    description: 'The next fast stream conference',
+    siteUrl: "http://utopia2019.com"
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
@@ -21,12 +24,39 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-91311733-8",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Utopia`,
+        short_name: `Utopia`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#1dcbda`,
+        display: `minimal-ui`,
+        icon: `src/components/favicon.png`, // This path is relative to the root of the site.
+      },
+    },
+    `gatsby-plugin-offline`,
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./content/posts`,
         name: "posts",
       },
     },
-    `gatsby-transformer-remark`
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./content/speakers`,
+        name: "posts",
+      },
+    },
+    `gatsby-transformer-remark`,
+    `gatsby-remark-external-links`
   ],
 }

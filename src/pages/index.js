@@ -15,32 +15,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <Hero/>
     <Explanation/>
-    <Speakers speakers={[{
-      name: "Namey McName",
-      role: "Role goes here",
-      avatarSrc: "http://placehold.it/100x100",
-      href: "#"
-    },{
-      name: "Fiona Harris",
-      role: "Head of Things, Company Ltd",
-      avatarSrc: "http://placehold.it/100x100",
-      href: "#"
-    },{
-      name: "Namey McName",
-      role: "Designer, GDS",
-      avatarSrc: "http://placehold.it/100x100",
-      href: "#"
-    },{
-      name: "Fiona Harris",
-      role: "Head of Things, Company Ltd",
-      avatarSrc: "http://placehold.it/100x100",
-      href: "#"
-    },{
-      name: "Jane Speaker",
-      role: "Designer, GDS",
-      avatarSrc: "http://placehold.it/100x100",
-      href: "#"
-    }]}/>
+    <Speakers speakers={data.speakers.edges}/>
     <Testimonial/>
     <LatestPosts
       posts={data.posts.edges}
@@ -55,19 +30,36 @@ const IndexPage = ({ data }) => (
 export default IndexPage
 
 export const pageQuery = graphql`
-  query homepageQuery {
-    posts: allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
-      limit: 3
-    ) {
-      edges {
-        node {
-          frontmatter {
-            date
-            title
-          }
+query homepageQuery {
+  speakers: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/speakers/.*$/"}},
+    sort: { order: DESC, fields: [frontmatter___order] },
+    limit: 5
+  ) {
+    edges {
+      node {
+        frontmatter {
+          title
+          role
+          image
+          order
         }
       }
     }
   }
+  posts: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/posts/.*$/"}},
+    sort: { order: DESC, fields: [frontmatter___date] },
+    limit: 4
+  ) {
+    edges {
+      node {
+        frontmatter {
+          date
+          title
+        }
+      }
+    }
+  }
+}
 `

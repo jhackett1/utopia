@@ -34,5 +34,6 @@ collections:
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Role", name: "role", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
+      - {label: "Order", name: "order", widget: "number", min: 0, valueType: "int", hint: "The lower the number, the higher the speaker will appear"}
     editor:
       preview: false

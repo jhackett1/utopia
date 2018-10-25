@@ -11,10 +11,10 @@ export default ({speakers}) =>
                 {speakers.map((speaker, i)=>
                     <li className={styles.item} key={i}>
                         <Speaker
-                            avatarSrc={speaker.avatarSrc}
-                            name={speaker.name}
-                            role={speaker.role}
-                            href={speaker.href}
+                            avatarSrc={speaker.node.frontmatter.image}
+                            name={speaker.node.frontmatter.title}
+                            role={speaker.node.frontmatter.role}
+                            href="/speakers"
                             />
                     </li>
                 )}

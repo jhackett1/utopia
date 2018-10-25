@@ -16,7 +16,7 @@ const PostPage = ({ data }) => {
   return(
     <Layout>
       <Helmet
-        title={frontmatter.title}
+          title={`${frontmatter.title} | ${data.site.siteMetadata.title}`}
         >
       </Helmet>
       <PostHeader
@@ -33,6 +33,11 @@ export default PostPage
 
 export const pageQuery = graphql`
   query PostById($id: String!) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     markdownRemark( id: { eq: $id } ) {
       html
       id
