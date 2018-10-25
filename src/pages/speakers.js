@@ -43,7 +43,7 @@ export const pageQuery = graphql`
             title
         }
     }
-    speakersPage: markdownRemark(frontmatter: {title: {eq: "speakers"}}) {
+    speakersPage: markdownRemark(id: {eq: "f856e752-e0e9-58f7-ab08-c2a40f026242"}) {
       frontmatter {
         lede
       }

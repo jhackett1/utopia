@@ -1,5 +1,4 @@
 ---
-title: "index"
 headline: "Lorem ipsum dolor sit amet quis"
 subheadline: "Consectetur adipiscing elit. Vivamus purus metus, auctor."
 explanationHeadline: "Lorem ipsum dolor sit amet"

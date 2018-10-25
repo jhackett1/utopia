@@ -36,7 +36,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    markdownRemark(frontmatter: {title: {eq: "privacy-notice"}}) {
+    markdownRemark(id: {eq: "443abc5d-a123-512e-bc38-70285e6bdb52"}) {
         html
         frontmatter {
             title
