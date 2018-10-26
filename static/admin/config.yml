@@ -47,7 +47,11 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Speaker", name: "speaker_name", widget: "relation", collection: "speaker", valueField: "title", searchFields: ["title"]}
+      - {label: "Speaker", name: "speaker", widget: "relation", collection: "speaker", valueField: "title", searchFields: ["title"]}
+      - {label: "Strand", name: "strand", widget: "relation", collection: "strand", valueField: "title", searchFields: ["title"]}
+      - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title", searchFields: ["title"]}    
+      - {label: "Slides", name: "slides", widget: "file", required: false, hint: "Upload the slides for this talk"}
+      - {label: "Body", name: "body", widget: "markdown"}
     editor:
       preview: false
 
@@ -66,28 +70,28 @@ collections:
       preview: false
 
   # Strand
-  # - name: "strand"
-  #   extension: "markdown"
-  #   label: "Strands"
-  #   folder: "content/strands"
-  #   create: true
-  #   slug: "{{slug}}"
-  #   fields:
-  #     - {label: "Name", name: "title", widget: "string"}
-  #   editor:
-  #     preview: false
+  - name: "strand"
+    extension: "markdown"
+    label: "Strands"
+    folder: "content/strands"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+    editor:
+      preview: false
 
-  # # Venue
-  # - name: "venue"
-  #   extension: "markdown"
-  #   label: "Venues"
-  #   folder: "content/venues"
-  #   create: true
-  #   slug: "{{slug}}"
-  #   fields:
-  #     - {label: "Name", name: "title", widget: "string"}
-  #   editor:
-  #     preview: false
+  # Venue
+  - name: "venue"
+    extension: "markdown"
+    label: "Venues"
+    folder: "content/venues"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+    editor:
+      preview: false
 
   # Unique pages
   - label: "Pages"
