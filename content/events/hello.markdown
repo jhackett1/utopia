@@ -1,5 +1,8 @@
 ---
 title: hello
-speaker_name: Firstname Surname
+speaker: Firstname Surname
+strand: Future workers
+venue: Large room
+slides: /uploads/img_0063.jpg
 ---
-
+Test
