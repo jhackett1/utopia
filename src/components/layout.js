@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
+import OfflineBar from './offline-bar'
 import Header from './header'
 import Footer from './footer'
 import 'animate.css/animate.min.css'
@@ -29,8 +30,9 @@ const Layout = ({ children }) => (
           >
           <html lang="en" />
         </Helmet>
+        <OfflineBar/>
         <Header/>
-          {children}
+        {children}
         <Footer/>
       </>
     )}

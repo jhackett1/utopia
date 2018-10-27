@@ -17,7 +17,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string", hint: "Blog post titles should ideally be around 10-15 words"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
     editor:
@@ -32,7 +32,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Role", name: "role", widget: "string"}
+      - {label: "Role", name: "role", widget: "string", hint: "The speaker's job title and/or employer"}
       - {label: "Image", name: "image", widget: "image", hint: "Make sure your image is no more than 200px wide and tall before uploading it. Large images will slow down the experience and irritate users."}
       - {label: "Order", name: "order", widget: "number", min: 0, valueType: "int", hint: "The lower the number, the higher the speaker will appear"}
     editor:
@@ -78,7 +78,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Name", name: "title", widget: "string", hint: "The name of this strand of events"}
     editor:
       preview: false
 

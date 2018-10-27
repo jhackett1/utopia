@@ -1,0 +1,15 @@
+@import 'helpers'
+
+.offline-bar
+    background-color: transparentize($blue, 0.9)
+    padding-top: 5px
+    padding-bottom: 5px
+
+.inner
+    composes: wideContainer from './helpers.sass'
+
+.message
+    color: $darkgrey
+
+.tag
+    color: darken($blue, 5)
