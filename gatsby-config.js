@@ -47,7 +47,7 @@ module.exports = {
         app_id: "looo03ny"
       }
     },
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

@@ -51,7 +51,7 @@ collections:
       - {label: "Strand", name: "strand", widget: "relation", collection: "strand", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}
       - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}    
       - {label: "Duration", name: "duration", widget: "number", valueType: "int", min: 1, hint: "In minutes", default: 60}
-      - {label: "Slides", name: "slides", widget: "file", required: false, hint: "Upload the slides for this talk, ideally as a PDF."}
+      - {label: "Slides", name: "slides", widget: "file", required: false, hint: "Upload the slides for this talk, ideally as a PDF"}
       - {label: "Description", name: "description", widget: "text"}
     editor:
       preview: false
