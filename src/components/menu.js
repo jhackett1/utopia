@@ -9,11 +9,12 @@ const MenuItem = ({
 }) =>
     <li className={styles.item}>
         <Link 
-            className={styles.link} 
+            className={styles.link}
             activeClassName={styles.activeLink}
             to={href}
             >{label}</Link>
     </li>
+
 
 const Menu = ({loggedIn, vertical}) =>
     <ul className={(vertical)? styles.verticalMenu : styles.menu}>

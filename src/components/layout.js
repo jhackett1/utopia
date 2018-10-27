@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import { stack as PanelMenu } from 'react-burger-menu'
+import { slide as PanelMenu } from 'react-burger-menu'
 import Menu from './menu'
 
 import OfflineBar from './offline-bar'
@@ -24,7 +24,7 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <div>
-        <PanelMenu className="panel-menu">
+        <PanelMenu width={ 240 } className="panel-menu">
           <Menu vertical/>
         </PanelMenu>
         <Helmet
