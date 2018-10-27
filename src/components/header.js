@@ -14,5 +14,4 @@ export default () =>
         <nav className={styles.nav}>
             <Menu/>
         </nav>
-
     </header>

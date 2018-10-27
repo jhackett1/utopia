@@ -1,6 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
+import { stack as PanelMenu } from 'react-burger-menu'
+import Menu from './menu'
 
 import OfflineBar from './offline-bar'
 import Header from './header'
@@ -21,7 +23,10 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <>
+      <div>
+        <PanelMenu className="panel-menu">
+          <Menu/>
+        </PanelMenu>
         <Helmet
           title={`${data.site.siteMetadata.title} | ${data.site.siteMetadata.description}`}
           meta={[
@@ -34,7 +39,7 @@ const Layout = ({ children }) => (
         <Header/>
         {children}
         <Footer/>
-      </>
+      </div>
     )}
   />
 )
