@@ -25,7 +25,7 @@ const Layout = ({ children }) => (
     render={data => (
       <div>
         <PanelMenu className="panel-menu">
-          <Menu/>
+          <Menu vertical/>
         </PanelMenu>
         <Helmet
           title={`${data.site.siteMetadata.title} | ${data.site.siteMetadata.description}`}

@@ -3,7 +3,10 @@ import Link from 'gatsby-link'
 
 import styles from './menu.module.sass'
 
-const MenuItem = ({href, label}) =>
+const MenuItem = ({
+    href, 
+    label
+}) =>
     <li className={styles.item}>
         <Link 
             className={styles.link} 
@@ -12,8 +15,8 @@ const MenuItem = ({href, label}) =>
             >{label}</Link>
     </li>
 
-const Menu = ({loggedIn}) =>
-    <ul className={styles.menu}>
+const Menu = ({loggedIn, vertical}) =>
+    <ul className={(vertical)? styles.verticalMenu : styles.menu}>
         <MenuItem href="/speakers" label="Speakers"/>
         <MenuItem href="/blog" label="Blog"/>
         {(loggedIn)? 
