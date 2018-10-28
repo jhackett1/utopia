@@ -2,11 +2,13 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 import { slide as PanelMenu } from 'react-burger-menu'
-import Menu from './menu'
+import ScrollAnimation from 'react-animate-on-scroll'
 
+import Menu from './menu'
 import OfflineBar from './offline-bar'
 import Header from './header'
 import Footer from './footer'
+
 import 'animate.css/animate.min.css'
 import './layout.sass'
 

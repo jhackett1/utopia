@@ -10,7 +10,7 @@ export default ({ posts }) =>
         <h2 className={styles.sectionTitle}>Blog</h2>
         <ul className={styles.postList}>
             {posts.map( (post, i) =>
-                <ScrollAnimation animateIn="fadeInUp" duration={0.5} animateOnce={true}  key={i}>
+                <ScrollAnimation animateIn="fadeInUp" className={styles.postItem} duration={0.5} animateOnce={true}  key={i}>
                     <LatestPost post={post}/>
                 </ScrollAnimation>
             )}
