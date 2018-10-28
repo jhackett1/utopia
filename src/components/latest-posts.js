@@ -1,4 +1,5 @@
 import React from 'react'
+import ScrollAnimation from 'react-animate-on-scroll'
 
 import LatestPost from './latest-post'
 
@@ -9,7 +10,9 @@ export default ({ posts }) =>
         <h2 className={styles.sectionTitle}>Blog</h2>
         <ul className={styles.postList}>
             {posts.map( (post, i) =>
-                <LatestPost post={post} key={i}/>
+                <ScrollAnimation animateIn="fadeInUp" duration={0.5} animateOnce={true}  key={i}>
+                    <LatestPost post={post}/>
+                </ScrollAnimation>
             )}
         </ul>
     </section>

@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+
 import Menu from './menu.js'
 import Social from './social.js'
 
