@@ -16,7 +16,7 @@ const MenuItem = ({
     </li>
 
 
-const Menu = ({loggedIn, vertical}) =>
+const Menu = ({loggedIn, vertical, openModal}) =>
     <ul className={(vertical)? styles.verticalMenu : styles.menu}>
         <MenuItem href="/speakers" label="Speakers"/>
         <MenuItem href="/blog" label="Blog"/>
@@ -27,7 +27,10 @@ const Menu = ({loggedIn, vertical}) =>
                 <MenuItem href="/info" label="Info"/>
             </>
         : 
-            <MenuItem href="#register" label="Register"/>
+            <>
+                <MenuItem href="#register" label="Register"/>
+                <MenuItem onClick={openModal} label="Log in"/>
+            </>
         }
     </ul>
 
