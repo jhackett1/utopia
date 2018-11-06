@@ -1,7 +1,6 @@
 import React from 'react'
 
 import styles from './explanation.module.sass'
-
 import time from './time.svg'
 import place from './place.svg'
 
