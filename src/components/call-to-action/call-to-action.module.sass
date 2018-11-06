@@ -1,0 +1,35 @@
+@import '../helpers'
+
+.constrainedWidth
+    @media screen and (min-width: 700px)
+        width: 66.67%
+    
+.call-to-action
+    background: $blue
+    color: white
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
+
+.inner
+    composes: wideContainer from '../helpers.sass'
+
+.headline
+    font-size: 2em
+    line-height: 1.3em
+    margin-bottom: 10px
+    composes: constrainedWidth
+    @media screen and (min-width: 600px)
+        font-size: 2.3em
+    @media screen and (min-width: 800px)
+        font-size: 2.6em
+
+.description
+    margin-bottom: 30px
+    composes: constrainedWidth
+    @media screen and (min-width: 700px)
+        margin-bottom: 40px
+    @media screen and (min-width: 1400px)
+        font-size: 1.1em

@@ -58,6 +58,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `./content/events`,
+        name: "events",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `./content/posts`,
         name: "posts",
       },

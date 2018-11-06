@@ -1,0 +1,56 @@
+@import '../helpers.sass'
+    
+.section-title
+    composes: sectionTitle from '../helpers.sass'
+    color: $darkgrey
+    
+.latest-posts
+    composes: wideContainer from '../helpers.sass'
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
+
+.post-list
+    margin: 0
+    padding: 0
+    list-style: none
+    @media screen and (min-width: 500px)
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-column-gap: 40px
+        grid-row-gap: 55px
+
+.post-item
+    margin-bottom: 50px
+    &:last-of-type
+        margin-bottom: 0px
+    @media screen and (min-width: 500px)
+        margin-bottom: 0px
+        
+.post-link
+    text-decoration: none
+
+.post-title
+    margin-top: 0px
+    margin-bottom: 15px
+    line-height: 1.4em
+    font-size: 1.3em
+    color: $darkgrey
+    @media screen and (min-width: 700px)
+        font-size: 1.8em
+
+.post-date
+    font-size: 0.9em
+    color: $darkgrey
+    opacity: 0.5
+    margin-bottom: 5px
+    &:first-letter
+       text-transform: capitalize
+    @media screen and (min-width: 1400px)
+        font-size: 1em
+        
+.inline-link
+    composes: inlineLink from '../helpers.sass'
+    color: $blue

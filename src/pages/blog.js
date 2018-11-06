@@ -2,9 +2,9 @@ import React from 'react'
 import { graphql } from "gatsby"
 import Helmet from 'react-helmet'
 
-import Layout from '../components/layout'
-import PostHeader from '../components/post-header'
-import LatestPost from '../components/latest-post'
+import Layout from '../components/layout/Layout'
+import PostHeader from '../components/post-header/PostHeader'
+import LatestPost from '../components/latest-posts/LatestPosts'
 
 import styles from './blog.module.sass'
 

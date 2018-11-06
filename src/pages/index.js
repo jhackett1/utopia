@@ -2,14 +2,14 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import Layout from '../components/layout'
-import Hero from '../components/hero'
-import Explanation from '../components/explanation'
-import Speakers from '../components/speakers'
-import Testimonial from '../components/testimonial'
-import LatestPosts from '../components/latest-posts'
-import Venue from '../components/venue'
-import Register from '../components/register'
+import Layout from '../components/layout/Layout'
+import Hero from '../components/hero/Hero'
+import Explanation from '../components/explanation/Explanation'
+import Speakers from '../components/speakers/Speakers'
+import Testimonial from '../components/testimonial/Testimonial'
+import LatestPosts from '../components/latest-posts/LatestPosts'
+import Venue from '../components/venue/Venue'
+import Register from '../components/register/Register'
 
 const IndexPage = ({ data }) => (
   <Layout>

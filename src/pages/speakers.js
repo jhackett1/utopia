@@ -2,9 +2,9 @@ import React from 'react'
 import { graphql } from "gatsby"
 import Helmet from 'react-helmet'
 
-import Layout from '../components/layout'
-import PostHeader from '../components/post-header'
-import Speaker from '../components/speaker'
+import Layout from '../components/layout/Layout'
+import PostHeader from '../components/post-header/PostHeader'
+import Speaker from '../components/speaker/Speaker'
 
 import styles from './all-speakers.module.sass'
 

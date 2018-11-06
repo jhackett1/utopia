@@ -3,10 +3,10 @@ import { graphql } from "gatsby"
 import vagueTime from 'vague-time'
 import Helmet from 'react-helmet'
 
-import Layout from '../components/layout'
-import PostHeader from '../components/post-header'
-import PostContent from '../components/post-content'
-import CallToAction from '../components/call-to-action'
+import Layout from '../components/layout/Layout'
+import PostHeader from '../components/post-header/PostHeader'
+import PostContent from '../components/post-content/PostContent'
+import CallToAction from '../components/call-to-action/CallToAction'
 
 const PostPage = ({ data }) => {
 

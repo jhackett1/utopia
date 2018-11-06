@@ -1,0 +1,59 @@
+@import '../helpers.sass'
+    
+.testimonial
+    background: $blue
+    background: linear-gradient(to left, $blue, $darkblue)
+    position: relative
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
+
+.background
+    background-image: url('./testimonial.jpg')
+    position: absolute
+    top: 0
+    right: 0
+    left: 0
+    bottom: 0
+    background-position: center
+    background-size: cover
+    filter: saturate(0)
+    mix-blend-mode: overlay
+    background-blend-mode: overlay
+    z-index: 1
+    opacity: 0.3
+    
+.inner
+    composes: narrowContainer from '../helpers.sass'
+    z-index: 2
+    position: relative
+
+.blockquote
+    margin: 0
+    padding: 0
+    // text-align: center
+
+.blockquote-text
+    margin: 0
+    line-height: 1.4em
+    letter-spacing: 0.5px
+    font-size: 1.8em
+    font-weight: bold
+    color: white
+    @media screen and (min-width: 700px)
+        font-size: 2.2em
+
+.citation
+    color: white
+    font-style: normal
+    // text-align: center
+
+.name
+    font-size: 1.2em
+    font-weight: bold
+    margin-bottom: 2px
+
+.role
+    margin-top: 0px

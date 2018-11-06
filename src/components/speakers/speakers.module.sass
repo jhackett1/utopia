@@ -1,0 +1,54 @@
+@import '../helpers.sass'
+
+.speakers
+    background: transparentize($blue, 0.95)
+    padding-top: 60px
+    padding-bottom: 60px
+    @media screen and (min-width: 700px)
+        padding-top: 110px
+        padding-bottom: 110px
+
+.inner
+    composes: wideContainer from '../helpers.sass'
+
+.section-title
+    composes: sectionTitle from '../helpers.sass'
+    color: $darkgrey
+
+.list
+    list-style-type: none
+    margin: 0
+    padding: 0
+    @media screen and (min-width: 500px)
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-column-gap: 40px
+        grid-row-gap: 55px
+    @media screen and (min-width: 800px)
+        grid-template-columns: 1fr 1fr 1fr
+
+.item
+    margin-bottom: 40px
+    @media screen and (min-width: 500px)
+        margin-bottom: 0px
+
+.more-speakers
+    display: flex
+    flex-direction: column
+    justify-content: center
+    text-align: center
+    align-items: center
+
+.more-speakers-number
+    font-size: 6em
+    color: $blue
+    font-weight: bold
+    margin-bottom: 0
+
+.more-speakers-text
+    color: $darkgrey
+    font-size: 0.9em
+    max-width: 220px
+    margin-top: 0
+    @media screen and (min-width: 1400px)
+        font-size: 1em
