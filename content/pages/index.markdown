@@ -16,10 +16,10 @@ citationName: Sir Jeremy Heywood & John Manzoni
 citationRole: June 2016
 address: 'BEIS Conference Centre, 1 Victoria Street, SW1E 5ND'
 venueInfo: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus metus,
-  auctor ut semper quis, viverra ac odio.
+  The conference centre at 1 Victoria Street is a large and modern venue, which
+  is accessible and conveniently located in central London.
 registerInfo: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus metus,
-  auctor ut semper quis, viverra ac odio.
+  There will be a total of 250 spaces on each of the 2 days. Tickets will be
+  available on Friday 23rd November.
 ---
 
