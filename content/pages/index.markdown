@@ -18,5 +18,8 @@ address: Lorem ipsum dolor sit amet
 venueInfo: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus metus,
   auctor ut semper quis, viverra ac odio.
+registerInfo: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus metus,
+  auctor ut semper quis, viverra ac odio.
 ---
 
