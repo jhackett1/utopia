@@ -14,7 +14,7 @@ testimonial: >-
   can't afford to ignore.
 citationName: Sir Jeremy Heywood & John Manzoni
 citationRole: June 2016
-address: Lorem ipsum dolor sit amet
+address: 'BEIS Conference Centre, 1 Victoria Street, SW1E 5ND'
 venueInfo: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus metus,
   auctor ut semper quis, viverra ac odio.
