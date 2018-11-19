@@ -5,7 +5,7 @@ subheadline: >-
   Join the discussion on how we as civil servants can exploit future
   technologies, embrace diversity in a meaningful way, and navigate our careers
   in these strange times.
-explanationHeadline: A conference based on three pillars
+explanationHeadline: Based on three pillars
 explanationSubheadline: >-
   Join the discussion on how we as civil servants can exploit future
   technologies, embrace diversity in a meaningful way, and navigate our careers
