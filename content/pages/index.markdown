@@ -24,6 +24,6 @@ venueInfo: >-
   James Park.
 registerInfo: >-
   We'll be welcoming 250 fast streamers on each day. You'll be able to claim
-  tickets starting Friday 23rd November right here.
+  tickets starting Thursday 29th November right here.
 ---
 
