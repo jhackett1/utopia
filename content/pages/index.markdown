@@ -7,8 +7,8 @@ subheadline: >-
   times.
 explanationHeadline: Based on three pillars
 explanationSubheadline: >-
-  Utopia will grapple with what the rapid advance of technology will mean for
-  civil servants, embrace a meaningful approach to diversity and inclusion, and
+  Utopia will grapple with what the rapid advance of technology means for civil
+  servants, embrace a meaningful approach to diversity and inclusion, and
   empower you with the resilience to forge an impactful career.
 when: 20th & 21st February 2019
 where: '1 Victoria Street, SW1E 5ND'
