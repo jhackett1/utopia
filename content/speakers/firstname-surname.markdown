@@ -5,6 +5,6 @@ role: >-
   health. She is a thought leader in mental and emotional wellbeing in the
   workplace and author of 3 books.
 image: /uploads/barbara-mariposa.png
-order: 1
+order: 3
 ---
 
