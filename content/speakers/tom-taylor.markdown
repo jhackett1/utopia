@@ -5,6 +5,6 @@ role: >-
   Fast Streamer himself, he is passionate about helping us to navigate our
   journey through the scheme and beyond.
 image: /uploads/tom-taylor.jpg
-order: 3
+order: 2
 ---
 
