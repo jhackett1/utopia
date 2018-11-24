@@ -5,6 +5,6 @@ role: >-
   her career at PwC where she spent 11 years in Government-facing roles. She is
   now the lead SCS sponsor for the Finance Fast Stream.
 image: /uploads/cat-little.png
-order: 2
+order: 1
 ---
 
