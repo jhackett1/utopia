@@ -1,6 +1,6 @@
 ---
 title: index
-headline: 'Utopia is the 2019 Fast Stream Conference'
+headline: Utopia is the 2019 Fast Stream Conference
 subheadline: >-
   Exploring how we as civil servants can exploit future technologies, embrace
   diversity in a meaningful way, and navigate our careers in these strange
@@ -13,7 +13,7 @@ explanationSubheadline: >-
 when: 20th & 21st February 2019
 where: '1 Victoria Street, SW1E 5ND'
 testimonial: >-
-  The world is changing. And it's changing in ways that as a Civil Service, we
+  The world is changing. And it's changing in ways that, as a Civil Service, we
   can't afford to ignore.
 citationName: Sir Jeremy Heywood & John Manzoni
 citationRole: June 2016
