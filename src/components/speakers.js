@@ -7,7 +7,7 @@ import styles from './speakers.module.sass'
 export default ({speakers}) =>
     <section className={styles.speakers}>
         <div className={styles.inner}>
-            <h2 className={styles.sectionTitle}>Partners</h2>
+            <h2 className={styles.sectionTitle}>Speakers & partners</h2>
             <ul className={styles.list}>
                 {speakers.map((speaker, i)=>
                     <li className={styles.item} key={i}>

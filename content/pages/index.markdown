@@ -1,6 +1,6 @@
 ---
 title: index
-headline: 'Join us at Utopia, the 2019 Fast Stream Conference'
+headline: 'Utopia is the 2019 Fast Stream Conference'
 subheadline: >-
   Exploring how we as civil servants can exploit future technologies, embrace
   diversity in a meaningful way, and navigate our careers in these strange
