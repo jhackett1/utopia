@@ -1,9 +1,7 @@
 ---
-title: Tom Taylor
-role: >-
-  Tom is Director of Finance and Portfolio at BEIS, a former Fast Streamer, and
-  one of our SCS sponsors.
-image: /uploads/tom-taylor.jpg
+title: Speakers and workshop sessions
+role: A full programme of speakers and workshop sessions will be announced shortly
+image: /uploads/speakers-tba-1-.png
 order: 2
 ---
 
