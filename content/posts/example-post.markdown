@@ -2,7 +2,7 @@
 title: Welcome to Utopia!
 date: 2018-11-25T00:33:26.307Z
 ---
-![null](/uploads/utopia-banner.png)
+![null](/uploads/adam-s-blog.png)
 
 Some of those reading this will remember seeing the original bid we submitted back in July, which laid out our vision for Utopia.
 
