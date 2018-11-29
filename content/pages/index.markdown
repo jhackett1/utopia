@@ -23,7 +23,7 @@ venueInfo: >-
   and conveniently located in central London. The nearest tube station is St.
   James Park.
 registerInfo: >-
-  We'll be welcoming 250 fast streamers on each day. You'll be able to claim
-  tickets starting Thursday 29th November right here.
+  We'll be welcoming 250 fast streamers on each day. You can book your place
+  now, on our website.
 ---
 
