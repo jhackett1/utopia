@@ -1,18 +1,16 @@
 ---
-title: Utopia 2019 – Tickets are now LIVE!
+title: Tickets are now LIVE!
 date: 2018-11-29T10:36:59.131Z
 ---
 ![](/uploads/tickets-1-.png)
 
 # Tickets for ‘Utopia’, the 2019 Fast Stream Conference are now live and available on our website (via Eventbrite)! 
 
-So make sure you grab yours today to avoid disappointment!
+So [make sure you grab yours today](https://www.eventbrite.co.uk/e/utopia-tickets-51593816494?aff) to avoid disappointment!
 
-[https://www.eventbrite.co.uk/e/utopia-tickets-51593816494?aff](https://www.eventbrite.co.uk/e/utopia-tickets-51593816494?aff)
+Here’s how to get your hands on one.
 
-Here’s how to get your hands on one - 
-
-**Centrally managed Fast Streamers:**
+## Centrally managed Fast Streamers:
 
 1. Scroll to the ticket registration section of our website or visit our Eventbrite page.
 
@@ -24,9 +22,7 @@ Here’s how to get your hands on one -
 
 5. Receive your ticket and put Utopia in your calendar!
 
-
-
-**Non-centrally managed Fast Streamers:**
+## Non-centrally managed Fast Streamers
 
 1. Scroll to the ticket registration section of our website or visit our Eventbrite page.
 
@@ -40,11 +36,9 @@ Here’s how to get your hands on one -
 
 6. Receive your ticket and put Utopia in your calendar!
 
-
-
 For more information about what to expect on the day, please continue to visit our website,[ the fast stream intranet](https://sites.google.com/faststream.civilservice.gov.uk/faststreamintranet/events/fs-conference-2019-utopia?authuser=0) (if you have access!) and, if you haven’t already, do make sure to [sign up to our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdYrFeCaIw8dEmMvCtO-xi-dKlXjTk7ZH5Vyjh9vJsVgxQ2Dw/viewform?usp=send_form) so that you don’t miss out on any subsequent updates!
 
-If you are unable to access this link, or the mailing list link, please email hamish.inglis@faststream.civilservice.gov.uk to be added to the mailing list.
+If you are unable to access this link, or the mailing list link, please email **hamish.inglis@faststream.civilservice.gov.uk** to be added to the mailing list.
 
 
 
