@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Utopia',
-    description: 'The next fast stream conference',
+    description: 'The 2019 Fast Stream conference will exploring how we as civil servants can exploit future technologies, embrace diversity and navigate our careers in these strange times.',
     siteUrl: "http://utopia2019.com"
   },
   plugins: [
