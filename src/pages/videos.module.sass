@@ -11,7 +11,7 @@
     margin-bottom: 50px
     @media screen and (min-width: 500px)
         display: grid
-        grid-template-columns: 1fr 1fr
+        grid-template-columns: 3fr 2fr
         grid-column-gap: 40px
         grid-row-gap: 55px
 
@@ -21,3 +21,14 @@
 
 .video-container
     max-width: 100%
+    position: relative
+    padding-bottom: 56.25%
+    padding-top: 25px
+    height: 0
+
+    iframe
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%

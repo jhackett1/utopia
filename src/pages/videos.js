@@ -16,7 +16,7 @@ const VideoPage = ({ data }) => (
         </Helmet>
         <PostHeader
             title="Videos"
-            lede="Live streams and recordings of the event."
+            lede="We're filming some key talks at the event. Watch them live or afterward here."
             />
         <ul className={styles.videoList}>
 
