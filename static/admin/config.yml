@@ -52,7 +52,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Youtube embed code", name: "url", widget: "string", hint: "Give the Youtube embed code of this video"}
       - {label: "Order", name: "order", widget: "number", min: 0, valueType: "int", hint: "The lower the number, the higher the speaker will appear"}
-      - {label: "Linked event (optional)", name: "event", widget: "relation", collection: "event", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}
+      - {label: "Linked event (optional)", name: "event", widget: "relation", required: false, collection: "event", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}
     editor:
       preview: false
 
@@ -71,7 +71,7 @@ collections:
       - {label: "Venue", name: "venue", widget: "relation", collection: "venue", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}    
       - {label: "Start time", name: "time", widget: "datetime", format: "LT", hint: "In hours and minutes"}
       - {label: "Duration", name: "duration", widget: "number", valueType: "int", min: 1, hint: "In minutes", default: 60}
-      - {label: "Slides", name: "slides", widget: "file", required: false, hint: "Upload the slides for this talk, ideally as a PDF"}
+      - {label: "Slides (optional)", name: "slides", widget: "file", required: false, hint: "Upload the slides for this talk, ideally as a PDF"}
       - {label: "Description", name: "description", widget: "text"}
     editor:
       preview: false
