@@ -1,6 +1,6 @@
 ---
-title: First test video
-order: 1
+title: Second test video
+order: 2
 url: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/N21oG99eF3A?controls=0" frameborder="0"

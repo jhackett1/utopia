@@ -22,6 +22,7 @@ const VideoPage = ({ data }) => (
 
             {data.videos.edges.map((video, i)=>
                 <li className={styles.videoItem} key={i}>
+                    <div className={styles.videoContainer}  dangerouslySetInnerHTML={{ __html: video.node.frontmatter.url }}></div>
                     <h2 className={styles.videoTitle}>{video.node.frontmatter.title}</h2>
                 </li>
             )}
