@@ -7,6 +7,7 @@ import Menu from './menu'
 import OfflineBar from './offline-bar'
 import Header from './header'
 import Footer from './footer'
+import AppProvider from './Provider'
 
 import 'animate.css/animate.min.css'
 import './layout.sass'
@@ -25,21 +26,23 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <div>
-        <PanelMenu width={ 240 } className="panel-menu">
-          <Menu vertical/>
-        </PanelMenu>
-        <Helmet
-          title={`${data.site.siteMetadata.title} | ${data.site.siteMetadata.description}`}
-          meta={[
-            { name: 'description', content: data.site.siteMetadata.description },
-          ]}
-          >
-          <html lang="en" />
-        </Helmet>
-        <OfflineBar/>
-        <Header/>
-        {children}
-        <Footer/>
+        <AppProvider>
+          <PanelMenu width={ 240 } className="panel-menu">
+            <Menu vertical/>
+          </PanelMenu>
+          <Helmet
+            title={`${data.site.siteMetadata.title} | ${data.site.siteMetadata.description}`}
+            meta={[
+              { name: 'description', content: data.site.siteMetadata.description },
+            ]}
+            >
+            <html lang="en" />
+          </Helmet>
+          <OfflineBar/>
+          <Header/>
+          {children}
+          <Footer/>
+        </AppProvider>
       </div>
     )}
   />

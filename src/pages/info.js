@@ -19,8 +19,8 @@ const InfoPage = ({ data }) => (
             lede="Everything you need to know about the event and the venue."
             />
         <ul className={styles.infoList}>
-            {data.infos.edges.map(info=>
-                <li className={styles.infoItem}>
+            {data.infos.edges.map((info, i)=>
+                <li className={styles.infoItem} key={i}>
                     <h2 className={styles.infoTitle}>{info.node.frontmatter.title}</h2>
                     <div className={styles.infoContent} dangerouslySetInnerHTML={{ __html: info.node.html }}></div>
                 </li>
@@ -43,8 +43,7 @@ query indexQuery {
 
     infos: allMarkdownRemark(
         filter: {fileAbsolutePath: {regex: "/info/.*$/"}},
-        sort: { order: ASC, fields: [frontmatter___order] },
-        limit: 5
+        sort: { order: ASC, fields: [frontmatter___order] }
     ) {
         edges {
             node {

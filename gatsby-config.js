@@ -16,6 +16,10 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-create-client-paths`,
+      options: { prefixes: [`/info/*`] },
+    },
+    {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
@@ -52,6 +56,13 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./content/pages`,
+        name: "pages",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./content/videos`,
         name: "pages",
       },
     },

@@ -49,8 +49,10 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Linked event", name: "title", widget: "relation", collection: "event", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}
-      - {label: "Youtube URL", name: "url", widget: "string", hint: "Give the Youtube URL of this livestream"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Youtube embed code", name: "url", widget: "string", hint: "Give the Youtube embed code of this video"}
+      - {label: "Order", name: "order", widget: "number", min: 0, valueType: "int", hint: "The lower the number, the higher the speaker will appear"}
+      - {label: "Linked event (optional)", name: "event", widget: "relation", collection: "event", valueField: "title", searchFields: ["title"], hint: "Choose from the suggestions"}
     editor:
       preview: false
 
