@@ -34,9 +34,15 @@ export default class extends React.Component{
                 `}
                 render={data => {
 
-                    let thisSpeaker = data.speakers.edges.filter((speaker)=>{
-                        return speaker.node.frontmatter.title === this.props.event.speaker
-                    })[0].node.frontmatter;
+                    let thisSpeaker = null
+
+                    try {
+                        thisSpeaker = data.speakers.edges.filter((speaker)=>{
+                            return speaker.node.frontmatter.title === this.props.event.speaker
+                        })[0].node.frontmatter;
+                    } catch(e){
+                        console.log(e)
+                    }
 
                     return(
                         <>
@@ -53,11 +59,11 @@ export default class extends React.Component{
                                     {(this.props.event.filmed) ? <p className={styles.eventInfo}>This event will be filmed.</p> : null}
                                     <a className={styles.button} target="blank" href={this.props.event.slides}>Download slides</a>
                                     {(this.props.event.filmed) ? <Link className={styles.buttonOutline} to="/videos">Go to videos</Link> : null}
-                                    <div className={styles.speakerFooter}>
+                                    {(thisSpeaker) ? <div className={styles.speakerFooter}>
                                         <img className={styles.speakerImage} src={thisSpeaker.image} alt={thisSpeaker.title}/>
                                         <h4 className={styles.speakerName} >{thisSpeaker.title}</h4>
                                         <p className={styles.speakerRole} >{thisSpeaker.role}</p>
-                                    </div>
+                                    </div> : null }
                                 </article>
                             </div>
                         </>
