@@ -7,7 +7,7 @@ import Menu from './menu'
 import OfflineBar from './offline-bar'
 import Header from './header'
 import Footer from './footer'
-import Login from './login'
+import Login from './Login'
 
 import 'animate.css/animate.min.css'
 import './layout.sass'
@@ -36,13 +36,13 @@ const Layout = ({ children }) => (
             ]}
             >
             <html lang="en" />
-          </Helmet>
-          <OfflineBar/>
-          <Header/>
-          {children}
-          <Footer/>
-          <Login/>
-      </div>
+            </Helmet>
+            <OfflineBar/>
+            <Header/>
+            {children}
+            <Footer/>
+            <Login/>
+        </div>
     )}
   />
 )
