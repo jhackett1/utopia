@@ -16,7 +16,7 @@ export default class Login extends React.Component{
 
     advance = (e) => {
         e.preventDefault()
-        if(this.state.password === process.env.DELEGATE_PASSWORD){
+        if(this.state.password === process.env.GATSBY_DELEGATE_PASSWORD){
             this.setState({
                 page: 2,
                 invalid: false
