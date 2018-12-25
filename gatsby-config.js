@@ -15,10 +15,10 @@ module.exports = {
         logo: "./src/components/favicon.png",
       }
     },
-    // {
-    //   resolve: `gatsby-plugin-create-client-paths`,
-    //   options: { prefixes: [`/info/*`] },
-    // },
+    {
+      resolve: `gatsby-plugin-create-client-paths`,
+      options: { prefixes: [`/info/*`, `/videos/*`, `/schedule/*`, ] },
+    },
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {

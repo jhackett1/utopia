@@ -7,7 +7,7 @@ import Menu from './menu'
 import OfflineBar from './offline-bar'
 import Header from './header'
 import Footer from './footer'
-import AppProvider from './Provider'
+import Login from './login'
 
 import 'animate.css/animate.min.css'
 import './layout.sass'
@@ -26,7 +26,6 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <div>
-        <AppProvider>
           <PanelMenu width={ 240 } className="panel-menu">
             <Menu vertical/>
           </PanelMenu>
@@ -42,7 +41,7 @@ const Layout = ({ children }) => (
           <Header/>
           {children}
           <Footer/>
-        </AppProvider>
+          <Login/>
       </div>
     )}
   />

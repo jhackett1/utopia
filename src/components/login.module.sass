@@ -8,20 +8,22 @@
     left: -1000px
 
 .form
-    display: flex
-    flex-direction: row
-    width: 100%
+    @media screen and (min-width: 600px)
+        display: flex
+        flex-direction: row
+        width: 100%
 
 .field
     padding: 10px
     font-size: 1em
     border-radius: 2px 0px 0px 2px
     border: 1px solid #dfdfdf
-    border-width: 1px 0px 1px 1px
     display: block
     width: 100%
     margin-bottom: 20px
     flex: 1
+    @media screen and (min-width: 600px)
+        border-width: 1px 0px 1px 1px
 
 .button
     composes: 'button' from './helpers.sass'
@@ -30,9 +32,13 @@
     color: white
     height: 40px
     font-size: 0.85em
-    min-width: 140px
-    border-radius: 0px 2px 2px 0px
     padding: 10px
+    width: 100%
+    border-radius: 2px
+    @media screen and (min-width: 600px)
+        width: 140px
+        // width: inherit
+        border-radius: 0px 2px 2px 0px
 
 .validation
     font-weight: bold

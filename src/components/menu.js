@@ -17,7 +17,7 @@ const MenuItem = ({
     </li>
 
 
-const Menu = ({vertical, openModal}) =>
+const Menu = ({vertical}) =>
     <AppContext.Consumer>
         {(context)=>
             <ul className={(vertical)? styles.verticalMenu : styles.menu}>
@@ -32,9 +32,10 @@ const Menu = ({vertical, openModal}) =>
                 : 
                     <>
                         <MenuItem href="#register" label="Register"/>
-                        <li className={styles.item} onClick={openModal}>
+                        <li className={styles.item}>
                             <button 
                                 className={styles.link}
+                                onClick={context.toggleModal}
                                 >Log in</button>
                         </li>
                     </>
