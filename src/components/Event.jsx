@@ -23,12 +23,15 @@ export default class extends React.Component{
     render(){
         return(
             <>
-                {(this.state.modalOpen)? <EventModal event={this.props.event} closeModal={this.closeModal} /> : null}
-                <li className={styles.event} onClick={this.toggleModal}>
-                    <h2 className={styles.eventTitle}>{this.props.event.title}</h2>
-                    {/* {console.log(event)} */}
-                    <p className={styles.eventInfo}>{this.props.event.duration} mins / {this.props.event.venue}</p>
+                <li className={styles.event}>
+                    <button className={styles.eventButton} name="Open event details"  onClick={this.toggleModal}>
+                        <h2 className={styles.eventTitle}>{this.props.event.title}</h2>
+                        {/* {console.log(event)} */}
+                        <p className={styles.eventInfo}>{this.props.event.duration} mins / {this.props.event.venue}</p>
+                    </button>
                 </li>
+                {(this.state.modalOpen)? <EventModal event={this.props.event} closeModal={this.closeModal} /> : null}
+                
             </>
         )
     }

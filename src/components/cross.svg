@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.335 23.334">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #272727;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-980 -103)">
+    <g id="Cross" transform="translate(980 103)">
+      <path id="Fill_1_Copy" data-name="Fill 1 Copy" class="cls-1" d="M0,3H30V0H0Z" transform="translate(2.121 0) rotate(45)"/>
+      <path id="Fill_1_Copy-2" data-name="Fill 1 Copy" class="cls-1" d="M0,3H30V0H0Z" transform="translate(23.335 2.121) rotate(135)"/>
+    </g>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 import React from 'react'
 import { AppContext } from './Provider'
-
+import close from './cross.svg'
 import styles from './login.module.sass'
 
 export default class Login extends React.Component{
@@ -42,6 +42,7 @@ export default class Login extends React.Component{
                         <div className={styles.overlay} onClick={this.props.closeModal}></div>
                         <div className={styles.modalHolder}>
                             <section className={styles.modal}>
+                                <button className={styles.closeIcon} name="Close event details" onClick={this.props.closeModal}><img src={close} alt="Close event details"/></button>
                                 {(this.state.page === 1)?
                                     <>
                                         <p>Registered delegates can access the full conference schedule and exclusive video livestreams.</p>

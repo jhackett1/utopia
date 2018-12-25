@@ -51,6 +51,7 @@ query scheduleQuery {
                     duration
                     slides
                     description
+                    filmed
                 }
             }
         }
