@@ -2,6 +2,7 @@ import React from 'react'
 import { AppContext } from './Provider'
 import close from './cross.svg'
 import styles from './login.module.sass'
+import { navigate } from 'gatsby';
 
 export default class Login extends React.Component{
     constructor(){
@@ -21,6 +22,10 @@ export default class Login extends React.Component{
                 invalid: false
             })
             this.context.logIn()
+            setTimeout(()=>{
+                navigate('/schedule')
+                this.context.toggleModal()
+            }, 1000)
         } else {
             this.setState({
                 invalid: true
