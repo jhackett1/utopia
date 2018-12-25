@@ -40,8 +40,8 @@ export default class Login extends React.Component{
                 {(context)=>
                     <>
                         <div className={styles.overlay} onClick={this.props.closeModal}></div>
-                        <div className={styles.loginHolder}>
-                            <section className={styles.login}>
+                        <div className={styles.modalHolder}>
+                            <section className={styles.modal}>
                                 {(this.state.page === 1)?
                                     <>
                                         <p>Registered delegates can access the full conference schedule and exclusive video livestreams.</p>

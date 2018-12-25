@@ -1,0 +1,93 @@
+@import 'helpers.sass'
+
+.schedule
+    border-top: 1px solid #dfdfdf
+
+.all-events
+    list-style: none
+    margin: 0
+    padding: 0
+
+.events-at-same-time
+    border-bottom: 1px solid #dfdfdf
+    list-style: none
+    margin: 0
+    padding: 0
+    &:last-of-type
+        border-bottom: none
+
+.row-inner
+    composes: wideContainer from './helpers.sass'
+    display: flex
+    flex-direction: row
+
+.date-label
+    width: 100px
+    flex: 0
+    // background: red
+    padding: 10px 10px 10px 0px
+    font-size: 1em
+    opacity: 0.5
+    border-right: 1px solid #dfdfdf
+    @media screen and (min-width: 700px)
+        padding: 20px 20px 20px 0px
+        font-size: 1.5em
+        width: 150px
+        flex: 1
+        max-width: 150px
+
+.event
+    padding: 10px
+    border-right: 1px solid #dfdfdf
+    flex: 1
+    @media screen and (min-width: 700px)
+        padding: 20px
+
+.event-title
+    margin-top: 0px
+    margin-bottom: 10px
+    font-size: 1.1em
+    font-weight: normal
+    @media screen and (min-width: 700px)
+        font-size: 1.3em
+
+.event-info
+    margin-top: 0px
+    margin-bottom: 0px
+    font-size: 0.8em
+    opacity: 0.5    
+    @media screen and (min-width: 700px)
+        font-size: 0.9em
+
+.strand-label
+    background: $blue
+    color: white
+    font-size: 0.85em
+    padding: 5px 12.5px
+    border-radius: 15px
+    margin-top: 10px
+    display: inline-block
+
+.button
+    background: $blue
+    color: white
+    font-size: 0.85em
+    border-radius: 0px 2px 2px 0px
+    padding: 10px
+    border: 3px solid $blue
+
+.button-outline
+    composes: 'button' from './helpers.sass'
+    background: white
+    color: $blue
+    font-size: 0.85em
+    border-radius: 0px 2px 2px 0px
+    padding: 10px
+
+.event-title-big
+    margin-top: 0px
+
+.event-description
+    white-space: pre-wrap
+    margin-top: 25px
+    margin-bottom: 25px

@@ -1,14 +1,11 @@
 ---
-title: Earliest event
+title: Later event
 speaker: Firstname Surname
 strand: Future workers
-venue: Large room
-time: '12:01'
+venue: Small room
+time: '14:01'
 duration: 30
 slides: /uploads/img_0063.jpg
-description: |-
-  test
-
-  Hello
+description: test
 ---
 
