@@ -1,6 +1,6 @@
 ---
 title: Speakers and workshop sessions
-role: A full programme of speakers and workshop sessions will be announced shortly
+role: All of our speakers and workshop sessions will continue to be announced here!
 image: /uploads/speakers-tba-5-.png
 order: 2
 ---
