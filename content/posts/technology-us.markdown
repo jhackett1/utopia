@@ -10,7 +10,7 @@ Embedding diversity at the heart of this transformation is crucial. Kevin Cunnin
 
 ![null](/uploads/copy-of-copy-of-utopia-experimenting-1-.png)
 
-At the same time, our increasing reliance on inter-connected digital systems is giving rise to unprecedented threats. The National Cyber Security Centre says it protects the UK from over 10 attacks per week, and has warned it is a question of _“when, not if”_** **the country is hit with a major cyber attack. Cyber terrorism presents an increasing challenge for the future. As the Centre for Protection of Critical National Infrastructure notes, we have to be prepared for terrorists seeking to take advantage of our increasing internet dependency to attack or disable key systems. 
+At the same time, our increasing reliance on inter-connected digital systems is giving rise to unprecedented threats. The National Cyber Security Centre says it protects the UK from over 10 attacks per week, and has warned it is a question of “when, not if”** **the country is hit with a major cyber attack. Cyber terrorism presents an increasing challenge for the future. As the Centre for Protection of Critical National Infrastructure notes, we have to be prepared for terrorists seeking to take advantage of our increasing internet dependency to attack or disable key systems. 
 
 Thankfully, the unleashing of autonomous killer robots on our streets remains (for the present) a distant prospect. Nevertheless, the security implications arising from advances in AI and machine learning are substantial, as this paper from Chatham House makes clear.
 
