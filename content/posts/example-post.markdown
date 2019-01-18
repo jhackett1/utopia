@@ -6,7 +6,7 @@ date: 2018-11-25T00:33:26.307Z
 
 Some of those reading this will remember seeing the original bid we submitted back in July, which laid out our vision for Utopia.
 
-As with the other fantastic bids, it noted the unprecedented ways in which the the working world is changing for Civil Servants. Bizarre political times, intelligent robots threatening our jobs, an ever more diverse population to serve… and us Fast Streamers, at the start of our professional journey, amidst all this change. How should we respond as we cast off into our civil service careers?
+As with the other fantastic bids, it noted the unprecedented ways in which the the working world is changing for civil servants. Bizarre political times, intelligent robots threatening our jobs, an ever more diverse population to serve… and us Fast Streamers, at the start of our professional journey, amidst all this change. How should we respond as we cast off into our Civil Service careers?
 
 It was this central question which we wanted to grapple with through Utopia. So we got together and we decided it made sense to attack it from three angles. These became the “three pillars” of our conference concept.
 
