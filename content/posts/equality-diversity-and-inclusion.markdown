@@ -1,5 +1,5 @@
 ---
-title: 'Equality, Diversity and Inclusion?'
+title: Diversity Is The Start
 date: 2019-01-23T10:00:04.764Z
 ---
 Equality, Diversity and Inclusion are a constant topic of conversation in todays society. However, it can often feel like a complex space that leaves people unsure how they can contribute positively. Utopia’s range of sessions in the Diversity and Inclusion (D&I) strand aims to challenge your thinking, start conversations and give delegates some practical takeaways on how to be diversity champions and leaders. Ensuring we are the individuals who make our colleagues feel accepted, respected and valued is the starting point of leadership. It allows us to create inclusive workplaces so everyone can get on with giving and being their best.
