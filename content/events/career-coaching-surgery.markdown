@@ -6,13 +6,33 @@ venue: C17
 time: '14:45'
 duration: 45
 filmed: true
-description: |-
-  CAREER COACHING SURGERY
+description: >
+  1445-1530: CAREER COACHING SURGERY
 
-  Coach Dumi Senda
-  C17
+  Speaker: Coach Dumi Senda
+
   10 Spaces
 
-  14:45-15:30
+
+  Session Content
+
+  This session will focus on helping Fast Streamers leverage their Personal
+  Power on your career journeys. It will be based on a framework Dumi uses for
+  team development training called the Personal Power Mastery Programme, or
+  PPMaP. This framework will help participants explore and gain a deeper
+  understanding of the power dynamics at play in the workplace and to develop
+  strategies for building and maintaining a positive relationship with self and
+  others.
+
+
+  The outcomes of the coaching sessions will centre around:
+
+  Gaining a clear sense of self: how to live a life of purpose and impact
+
+  Overcoming limiting beliefs 
+
+  Dealing with conflict  
+
+  Communicating your impact
 ---
 
