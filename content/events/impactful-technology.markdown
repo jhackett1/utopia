@@ -1,6 +1,6 @@
 ---
 title: IMPACTFUL TECHNOLOGY
-speaker: Centre for Public Impact (3 facilitators)
+speaker: Centre for Public Impact
 strand: Future Workplace
 venue: C13
 time: '13:45'
