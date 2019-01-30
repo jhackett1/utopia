@@ -1,9 +1,9 @@
 ---
 title: CAREER COACHING SURGERY
 speaker: Coach Dumi Senda
-strand: Future Workplace
+strand: Future Leaders
 venue: C17
-time: '13:45'
+time: '14:45'
 duration: 45
 filmed: true
 description: |-
@@ -13,6 +13,6 @@ description: |-
   C17
   10 Spaces
 
-  13:45-14:30
+  14:45-15:30
 ---
 
