@@ -1,7 +1,9 @@
 ---
-title: Speakers and workshop sessions
-role: All of our speakers and workshop sessions will continue to be announced here!
-image: /uploads/speakers-tba-5-.png
-order: 2
+title: Chloé Delanney
+role: >-
+  Chloé is a trained dancer and yoga instructor, who practices under the
+  philosophy that ‘yoga is for all’.
+image: /uploads/chloe-delanney.png
+order: 1
 ---
 
