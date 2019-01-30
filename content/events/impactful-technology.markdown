@@ -7,22 +7,11 @@ time: '13:45'
 duration: 45
 filmed: true
 description: >
-  IMPACTFUL TECHNOLOGY
-
-
-  Centre for Public Impact (3 facilitators)
-
-  C13
-
-  40 Spaces
-
-
-  13:45-14:30
-
-
-  1345-1445: Machine learning, public services, and government legitimacy
+  13:45-14:30: Impactful Technology
 
   Session speakers: Centre for Public Impact
+
+  40 Spaces
 
 
   Biography - Margot Gagliani
