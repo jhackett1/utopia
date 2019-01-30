@@ -1,11 +1,12 @@
 ---
-title: Later event
-speaker: Firstname Surname
-strand: Future workers
-venue: Small room
-time: '14:01'
-duration: 30
+title: OPENING WORDS FROM UTOPIA'S SPONSORS
+speaker: NA
+strand: All
+venue: C8/9
+time: '10:30'
+duration: 15
+filmed: true
 slides: /uploads/img_0063.jpg
-description: test
+description: OPENING WORDS FROM UTOPIA'S SPONSORS in C8/9
 ---
 
