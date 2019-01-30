@@ -1,5 +1,5 @@
 ---
-title: End of Conference
+title: END OF CONFERENCE
 speaker: NA
 strand: All
 venue: NA
