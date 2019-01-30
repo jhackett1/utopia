@@ -1,11 +1,11 @@
 ---
-title: 'ALL DELEGATES TO ROOM '
+title: 'ARRIVAL, REGISTRATION, REFRESHMENTS & NETWORKING'
 speaker: NA
 strand: All
-venue: C8/9
-time: '10:20'
-duration: 10
+venue: Foyer
+time: '09:30'
+duration: 50
 filmed: false
-description: All delegates to room C8/9
+description: 'ARRIVAL, REGISTRATION, REFRESHMENTS & NETWORKING in Foyer'
 ---
 
