@@ -16,7 +16,7 @@ description: >
   170 Spaces
 
 
-  Biography
+  Biography - Jacky Wright
 
   Jacky joined HMRC in October 2017 from a private sector background. Jacky is
   well known in the industry as a senior executive who is a transformational
@@ -71,7 +71,6 @@ description: >
 
 
   Session content (Day 1 and Day 2)
-
 
   New technologies have the potential to radically transform the design,
   delivery and impact of public services. The effects on people and ways of
