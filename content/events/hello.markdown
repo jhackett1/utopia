@@ -1,12 +1,12 @@
 ---
-title: 'ARRIVAL, REGISTRATION, REFRESHMENTS & NETWORKING'
+title: 'ALL DELEGATES TO ROOM '
 speaker: NA
 strand: All
-venue: Foyer
-time: '09:30'
-duration: 50
+venue: C8/9
+time: '10:20'
+duration: 10
 filmed: false
 slides: /uploads/img_0063.jpg
-description: 'ARRIVAL, REGISTRATION, REFRESHMENTS & NETWORKING - Foyer'
+description: ALL DELEGATES TO ROOM C8/9
 ---
 
