@@ -9,7 +9,7 @@ time: '14:45'
 duration: 45
 filmed: true
 description: >
-  1445-1545: Ethical Artificial Intelligence
+  1445-1530: Ethical Artificial Intelligence
 
 
   Speakers: Dr Melanie Smallman, Kriti Sharma, Ben Garfinkel, Reema Patel, Andy
