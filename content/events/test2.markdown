@@ -1,11 +1,12 @@
 ---
-title: Same time event
-speaker: Firstname Surname
-strand: Future workplace
-venue: Small room
-time: '14:01'
-duration: 60
+title: 'NEW TECHNOLOGIES & THE CIVIL SERVICE '
+speaker: 'Jackie Wright (20th), Kevin Cunnington + Kriti Sharma (21st)'
+strand: Future Workplace
+venue: C8/9
+time: '10:45'
+duration: 55
+filmed: true
 slides: /uploads/img_0063.jpg
-description: test
+description: 170 Spaces
 ---
 
