@@ -44,5 +44,37 @@ description: >
   required to support disabled employees. Participants will have the opportunity
   to apply their learning through a case study, be signposted to further
   resources and make a pledge to build disability confidence in their own team.
+
+
+  Biography - Keith Knight, Policy Manager - CS Disability Inclusion Team
+
+  Keith joined the Civil Service in 1987. His career path has taken him from
+  front line operations into learning design and delivery and various HR roles
+  in DWP and the Cabinet Office. 
+
+  Keith has worked on Diversity and Inclusion Policy since 2011 and joined Sir
+  Philip Rutnam's Disability Inclusion Programme Team in 2016. Keith is
+  passionate about working with disabled colleagues, managers and leaders to
+  make the Civil Service the UK's most inclusive employer by 2020. 
+
+  He lives with his partner in East Kent where they share their home with 5
+  rescue cats. Keith enjoys the great outdoors, cycling, running and watching
+  cricket.
+
+
+  Biography - Ray Dempsey, Programme Manager - CS Disability Inclusion Team
+
+  Ray is a career Civil Servant with thirty eight years’ experience in
+  operational and policy roles in the Cabinet Office and Department of Work and
+  Pensions. He has transferred learning acquired in front-line operational roles
+  to enhance experience gained in specialist profession roles including
+  consultancy, learning and diversity and inclusion. 
+
+  He is currently the Civil Service Disability Inclusion Team Programme Manager,
+  responsible for delivering Sir Philip Rutnam’s key disability priorities,
+  underpinned by an ambitious change programme.
+
+  Ray lives in North East London and is married with two children. His interests
+  include spending time with his family, Fulham FC and gardening.
 ---
 
