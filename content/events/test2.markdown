@@ -33,7 +33,45 @@ description: >
   estates in the UK, and implementing HMRC’s pioneering IT Sourcing Strategy.
 
 
-  Session content
+  1045-1145: headline session: The Civil Service And Future Technology (Day 2)
+
+  Speakers: Kevin Cunnington and Kriti Sharma
+
+
+  Biography – Kevin Cunnington
+
+  Kevin has led a variety of large scale, and global, digital transformation
+  programmes. He spent his early career in programming and IT consultancy. More
+  recently he was the Global Head of Online for Vodafone Group and Business
+  Transformation Group Director General at the Department for Work and Pensions
+  (DWP). As Director General, Kevin leads the Government Digital Service and is
+  Head of Function for Digital, Data and Technology. He is also a member of the
+  Cabinet Office’s Executive Committee.
+
+
+  Biography – Kriti Sharma
+
+  Kriti Sharma is an Artificial Intelligence technologist and a leading global
+  voice on AI ethics and its impact on society. In addition to advising global
+  businesses on AI, she focuses on AI for Social Good. She built her first robot
+  at the age of 15 in India and has been building AI technologies to solve
+  global issues ever since, from productivity to education to domestic violence.
+  Kriti was recently named in the Forbes 30 Under 30 list for advancements in AI
+  and was included in the Recode 100 list of key influencers in technology in
+  2017. She was invited as a Civic Leader by the Obama Foundation Summit for her
+  work in ethical technology. She is a Fellow of the Royal Society of Arts,
+  Google Grace Hopper Scholar and recently gave expert testimony on AI Policy to
+  the UK Parliament in the House of Lords. Earlier this year, Kriti spearheaded
+  the launch of the Sage Future Makers Lab, a forum that will equip young people
+  around the world with hands-on learning for entering a career in Artificial
+  Intelligence. 
+
+  Kriti was appointed a United Nations Young Leader at the General Assembly in
+  2018.
+
+
+  Session content (Day 1 and Day 2)
+
 
   New technologies have the potential to radically transform the design,
   delivery and impact of public services. The effects on people and ways of
