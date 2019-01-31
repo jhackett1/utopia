@@ -1,26 +1,47 @@
 ---
-title: ETHICAL ARTIFICIAL INTELLIGENCE
-speaker: >-
-  Panellists: Dr Melanie Smallman, Kriti Sharma, Ben Garfinkel, Reema Patel C8.
-  Moderator: Andy Helliwell, GSS Executive Director
+title: 'A: Ethical Artificial Intelligence'
+speaker: 'Andy Helliwell, Dr Melanie Smallman, Kriti Sharma, Ben Garfinkel, Reema Patel'
 strand: Future Workplace
 venue: C8
 time: '14:45'
 duration: 45
 filmed: true
 description: >
-  1445-1530: Ethical Artificial Intelligence
+  Ethical Artificial Intelligence
 
+  Moderator: Andy Helliwell, GSS Executive Director
 
   Speakers: Dr Melanie Smallman, Kriti Sharma, Ben Garfinkel, Reema Patel, Andy
   Helliwell
 
-  Moderator: Andy Helliwell, GSS Executive Director
+  14:45-15:30
 
   100 Spaces
 
 
-  Biography - Dr Melanie Smallman
+  Session Content
+
+
+  What will the future look like, and how can we shape it for the better? 
+
+
+  Whilst current and future AI capabilities are often overstated, AI is already
+  transforming a wide range of sectors, from transport, healthcare, finance, and
+  security. These advances are raising deep questions about the implications for
+  ethics and governance. How do we ensure AI systems will not embed unconscious
+  biases in opaque decision-making processes, or entrench existing stereotypes
+  by learning from datasets that reflect deep inequalities? What should be done
+  about businesses seeking to use opaque yet biased algorithms to hide nefarious
+  actions, or discriminatory hiring approaches? The challenges arising from the
+  development of lethal autonomous weapons systems raise yet further questions.
+
+  In this interactive panel session, delegates will explore these challenging
+  issues and discuss what actions are needed to ensure future developments are
+  ethical, safe and well-governed.
+
+
+  Dr Melanie Smallman
+
 
   Dr Smallman’s research looks at how the public form views around new and
   emerging science and technology, the role of science and innovation in
@@ -28,7 +49,8 @@ description: >
   and technology and what alternative innovation models are available.
 
 
-  Biography - Kriti Sharma
+  Kriti Sharma
+
 
   Kriti Sharma, Vice President of AI, Sage, and Board Member for the Centre for
   Data Ethics and Innovation. 
@@ -48,11 +70,13 @@ description: >
   around the world with hands-on learning for entering a career in Artificial
   Intelligence. 
 
+
   Kriti was appointed a United Nations Young Leader at the General Assembly in
   2018.
 
 
-  Biography - Ben Garfinkel
+  Ben Garfinkel
+
 
   Ben Garfinkel, Research Fellow, Future of Humanity Institute, Centre for the
   Governance of AI, Oxford University. Ben’s research examines the security
@@ -60,7 +84,8 @@ description: >
   and cryptography.
 
 
-  Biography - Reema Patel
+  Reema Patel
+
 
   Reema Patel, Programme Manager – Ada Lovelace Institute (Data Ethics & AI)
 
@@ -76,7 +101,8 @@ description: >
   community run library, and a local councillor.
 
 
-  Biography - Andy Helliwell
+  Andy Helliwell
+
 
   Andy Helliwell is the Executive Director of Government Shared Services (GSS)
   as part of the Cabinet Office. He became the Executive Director of GSS in
@@ -90,24 +116,5 @@ description: >
   up Joint Forces Command as a major new organisation in Defence. Promoted to
   Director in 2014, he served as its finance and HR director before leading a
   major piece of organisational design and culture change work in MOD HQ.
-
-
-  Session content
-
-  What will the future look like, and how can we shape it for the better? 
-
-  Whilst current and future AI capabilities are often overstated, AI is already
-  transforming a wide range of sectors, from transport, healthcare, finance, and
-  security. These advances are raising deep questions about the implications for
-  ethics and governance. How do we ensure AI systems will not embed unconscious
-  biases in opaque decision-making processes, or entrench existing stereotypes
-  by learning from datasets that reflect deep inequalities? What should be done
-  about businesses seeking to use opaque yet biased algorithms to hide nefarious
-  actions, or discriminatory hiring approaches? The challenges arising from the
-  development of lethal autonomous weapons systems raise yet further questions.
-
-  In this interactive panel session, delegates will explore these challenging
-  issues and discuss what actions are needed to ensure future developments are
-  ethical, safe and well-governed.
 ---
 
