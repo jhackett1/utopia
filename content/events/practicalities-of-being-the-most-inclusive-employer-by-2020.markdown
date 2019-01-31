@@ -1,5 +1,5 @@
 ---
-title: 'B: Practicalities of Being the Most Inclusive Employer by 2020'
+title: Practicalities of Being the Most Inclusive Employer by 2020
 speaker: >-
   Sir Richard Heaton, Bernadette Kelly, Jacqui Gavin, Hamid Motraghi, Junior
   Johnson (21st)
