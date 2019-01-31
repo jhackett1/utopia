@@ -1,25 +1,28 @@
 ---
-title: PRACTICALITIES OF BEING THE MOST INCLUSIVE EMPLOYER BY 2020
+title: 'B: Practicalities of Being the Most Inclusive Employer by 2020'
 speaker: >-
-  Panellists: Sir Richard Heaton, Bernadette Kelly, Jacqui Gavin, Hamid
-  Motraghi. Moderator: Adam Smith (20th), Junior Johnson (21st)  
+  Sir Richard Heaton, Bernadette Kelly, Jacqui Gavin, Hamid Motraghi, Junior
+  Johnson (21st)
 strand: Future Workforce
 venue: C9
 time: '14:45'
 duration: 45
-filmed: true
-description: >
-  1445-1530: PRACTICALITIES OF BEING THE MOST INCLUSIVE EMPLOYER BY 2020
+filmed: false
+description: >-
+  Practicalities of Being the Most Inclusive Employer by 2020
 
   *SCS Panel Discussion*
-
 
   Moderator: Adam Smith (20th), Junior Johnson (21st)  
 
   Panellists: Sir Richard Heaton, Bernadette Kelly, Jacqui Gavin, Hamid Motraghi
 
+  14:45-15:30
+
   100 Spaces
 
+
+  Session Content
 
 
   One of the Civil Service’s three objectives is to be the most inclusive
@@ -35,7 +38,8 @@ description: >
   inclusive employer is all of our responsibilities. 
 
 
-  Biography - Sir Richard Heaton, Permanent Secretary MOJ 
+  Sir Richard Heaton, Permanent Secretary MOJ 
+
 
   Richard has been the Permanent Secretary for the Ministry of Justice since
   September 2015 and is also the Civil Service Race Champion. Prior to this he
@@ -48,7 +52,8 @@ description: >
   Richard is also chair of a charity in South London.
 
 
-  Biography - Bernadette Kelly, Permanent Secretary DfT
+  Bernadette Kelly, Permanent Secretary DfT
+
 
   Bernadette Kelly became Permanent Secretary at the Department for Transport on
   18 April 2017.
@@ -71,7 +76,8 @@ description: >
   Bernadette was made a Companion of the Order of the Bath (CB) in 2010.
 
 
-  Biography - Jacqui Gavin, Culture & Inclusion Manager, Cabinet Office 
+  Jacqui Gavin, Culture & Inclusion Manager, Cabinet Office 
+
 
   Jacqui joined the Civil Service in July 2009 where she joined the Department
   for Work & Pensions working out of Warrington Pension Centre after a long term
@@ -103,7 +109,8 @@ description: >
   Independent on Sunday Rainbow List.
 
 
-  Biography - Hamid Motraghi, Chair of The Network, Home Office 
+  Hamid Motraghi, Chair of The NETWORK, Home Office 
+
 
   Hamid Motraghi is the Chair of ‘The NETWORK’, the Home Office Race Equality
   staff support group which celebrates its 18th Anniversary this year. He was
@@ -132,7 +139,8 @@ description: >
   Permanent Secretary, Philip Rutnam.
 
 
-  Biography - Junior Johnson, Deputy Director Workforce Strategy Prison Reform 
+  Junior Johnson, Deputy Director Workforce Strategy Prison Reform 
+
 
   Junior Johnson is currently the Deputy Director in MoJ and heads up the
   Workforce Strategy Division on Prison Reform. He is responsible for Workforce
