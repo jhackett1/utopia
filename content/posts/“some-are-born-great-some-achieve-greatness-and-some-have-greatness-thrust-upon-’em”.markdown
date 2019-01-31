@@ -2,7 +2,7 @@
 title: >-
   “Some are born great, some achieve greatness, and some have greatness thrust
   upon ’em”
-date: 2019-01-31T16:37:56.509Z
+date: 2019-01-31T17:51:29.776Z
 ---
 So, you’re a Fast Streamer. 
 
