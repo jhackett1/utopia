@@ -1,12 +1,12 @@
 ---
-title: 'A: The Future of Government'
+title: The Future of Government
 speaker: 'The Institute for Government - Jill Rutter, Gavin Freeguard & Lewis Lloyd'
 strand: Future Workplace
 venue: C11
 time: '11:45'
 duration: 55
 filmed: false
-description: >+
+description: >
   The Future of Government: Policy-making, technology and government processes
 
   The Institute for Government
