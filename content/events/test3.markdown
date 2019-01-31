@@ -1,5 +1,5 @@
 ---
-title: ARE YOU DISABILITY CONFIDENT?
+title: 'B: Are You Disability Confident?'
 speaker: 'Keith Knight & Ray Dempsey '
 strand: Future Workforce
 venue: C11
@@ -8,22 +8,27 @@ duration: 45
 filmed: true
 slides: /uploads/img_0063.jpg
 description: >
-  1045-1130: Civil Service Disability Inclusion Team
+  Are You Disability Confident?
+
+  Civil Service Disability Inclusion Team
 
   Speakers: Keith Knight & Ray Dempsey 
+
+  10:45-11:30
 
   40 Spaces
 
 
-  Q. Are you committed to creating a disability inclusive culture?
+  Are you committed to creating a disability inclusive culture?
 
-  Q. Do you want to develop your disability confidence?
+  Do you want to develop your disability confidence?
 
 
-  If you answered yes to either question then please read on
+  If you answered yes to either question then please read on.
 
 
   Background
+
 
   The Civil Service aims to be the UK’s most inclusive employer by 2020.
   Disabled colleagues tell us that a disability confident line manager is a key
@@ -46,7 +51,8 @@ description: >
   resources and make a pledge to build disability confidence in their own team.
 
 
-  Biography - Keith Knight, Policy Manager - CS Disability Inclusion Team
+  Keith Knight, Policy Manager - CS Disability Inclusion Team
+
 
   Keith joined the Civil Service in 1987. His career path has taken him from
   front line operations into learning design and delivery and various HR roles
@@ -62,7 +68,8 @@ description: >
   cricket.
 
 
-  Biography - Ray Dempsey, Programme Manager - CS Disability Inclusion Team
+  Ray Dempsey, Programme Manager - CS Disability Inclusion Team
+
 
   Ray is a career Civil Servant with thirty eight years’ experience in
   operational and policy roles in the Cabinet Office and Department of Work and
