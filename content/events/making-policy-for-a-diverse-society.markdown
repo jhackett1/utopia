@@ -1,5 +1,5 @@
 ---
-title: 'C: Making Policy for a Diverse Society'
+title: Making Policy for a Diverse Society
 speaker: Vivienne Aiyela
 strand: Future Workforce
 venue: C8/9
