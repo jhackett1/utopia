@@ -1,25 +1,26 @@
 ---
-title: 'VIEW FROM THE OUTSIDE: WHY DOES CIVIL SERVICE DIVERSITY MATTER?'
-speaker: >-
-  Panellists: Dr Naseer Siabi, Melanie Richards, Elliot Rae, (Potentially
-  Vivienne Aiyela)
+title: 'C: View From the Outside - Why Does Civil Service Diversity Matter?'
+speaker: 'Emma Green, Dr Naseer Siabi, Melanie Richards, Elliot Rae'
 strand: Future Workforce
 venue: C8
 time: '13:45'
 duration: 55
 filmed: true
-description: >
-  1345-1440: VIEW FROM THE OUTSIDE: WHY DOES CIVIL SERVICE DIVERSITY MATTER?
+description: >-
+  View From the Outside - Why Does Civil Service Diversity Matter?
 
   *Strand 2 Headline Discussion*
 
-
   Moderator: Emma Green
 
-  Panellists: Dr Naseer Siabi, Melanie Richards, Elliot Rae, (Potentially
-  Vivienne Aiyela)
+  Panellists: Dr Naseer Siabi, Melanie Richards, Elliot Rae
+
+  13:45-14:40
 
   120 Spaces
+
+
+  Session Content
 
 
   In the headline panel of the Future Workforce Strand, we invite respected D&I
@@ -38,7 +39,8 @@ description: >
   reaching the outcomes of doing so can and will be. 
 
 
-  Biography - Dr Naseer Siabi, Chief Executive Officer. Microlink PC
+  Dr Naseer Siabi, Chief Executive Officer at Microlink PC
+
 
   Dr Nasser Siabi has been frequently cited as a ‘visionary’ and natural born
   philanthropist. His background of computer science, technology, and advanced
@@ -76,7 +78,8 @@ description: >
   exceptional services to people who live and work with disabilities. 
 
 
-  Biography - Melanie Richards, Deputy Chair and Board Member, KPMG UK
+  Melanie Richards, Deputy Chair and Board Member, KPMG UK
+
 
   As deputy chair of KPMG, Melanie Richards works with her fellow board members
   to drive the Big Four firm’s strategic direction as well as policy positions
@@ -113,8 +116,8 @@ description: >
   Leadership Board. 
 
 
-  Biography - Elliott Rae, Founder & Editor-in-Chief of
-  musicfootballfatherhood.com
+  Elliott Rae, Founder & Editor-in-Chief of musicfootballfatherhood.com
+
 
   Elliott Rae, is a dynamic and forward-thinking Diversity & Inclusion (D&I)
   specialist with specific expertise and passion in Gender Equality and Race.
@@ -144,7 +147,8 @@ description: >
   Elliott is a QPR fan, musician and a married father of one from London.
 
 
-  Biography - Emma Green, Head of D&I BEIS
+  Emma Green, Head of D&I at BEIS
+
 
   Emma Green is the Head of Diversity and Inclusion at BEIS, which is her first
   role in the Civil Service. She’s previously worked in the Education and Arts
