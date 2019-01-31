@@ -1,5 +1,5 @@
 ---
-title: MENTAL HEALTH & NEURODIVERSITY IN THE WORKPLACE
+title: 'D: Mental Health & Neurodiversity in the Workplace'
 speaker: Dr Barbara Mariposa
 strand: Future Leaders
 venue: C13
@@ -7,22 +7,28 @@ time: '11:45'
 duration: 45
 filmed: false
 description: >
-  1145-1240: MENTAL HEALTH & NEURODIVERSITY IN THE WORKPLACE
+  Mental Health & Neurodiversity in the Workplace
 
   Facilitator: Dr Barbara Mariposa
+
+  11:45-12:40
 
   40 Spaces
 
 
-  Session Content: With the increasing demands and pace of life in a rapidly
-  changing world, stress remains a major drain on both personal and business
-  resources. However, much can be done to build abilities and skills that
-  generate personal wellbeing, leadership presence, emotional intelligence and a
-  healthy working environment. In this talk, we start to unlock the concept of
-  stress, explore its causes and discover some solutions.
+  Session Content
 
 
-  Biography:
+  With the increasing demands and pace of life in a rapidly changing world,
+  stress remains a major drain on both personal and business resources. However,
+  much can be done to build abilities and skills that generate personal
+  wellbeing, leadership presence, emotional intelligence and a healthy working
+  environment. In this talk, we start to unlock the concept of stress, explore
+  its causes and discover some solutions.
+
+
+  Dr Barbara Mariposa
+
 
   Trained at the Royal Free Hospital, London, Dr Barbara is a medical doctor
   with a background in psychiatry and public health. Whilst at medical school,
