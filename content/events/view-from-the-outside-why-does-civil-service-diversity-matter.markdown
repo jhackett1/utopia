@@ -1,5 +1,5 @@
 ---
-title: 'C: View From the Outside - Why Does Civil Service Diversity Matter?'
+title: View From the Outside - Why Does Civil Service Diversity Matter?
 speaker: 'Emma Green, Dr Naseer Siabi, Melanie Richards, Elliot Rae'
 strand: Future Workforce
 venue: C8
