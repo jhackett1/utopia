@@ -1,5 +1,5 @@
 ---
-title: Fast Stream Fact vs Fiction
+title: 'C: Fast Stream Fact vs Fiction'
 speaker: Greg Hobbs
 strand: Future Leaders
 venue: C13
@@ -9,11 +9,12 @@ filmed: false
 description: >-
   Fast Stream Fact vs Fiction with Greg Hobbs
 
-  C13
+  14:45-15:30
 
   40 Spaces
 
-  14:45-15:30
+
+  Session Content
 
 
   This session is an opportunity for you to be directly involved in the
