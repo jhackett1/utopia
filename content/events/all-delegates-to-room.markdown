@@ -1,11 +1,14 @@
 ---
-title: 'ARRIVAL, REGISTRATION, REFRESHMENTS & NETWORKING'
+title: 'Arrival, Registration, Refreshments & Networking'
 speaker: NA
 strand: All
 venue: Foyer
 time: '09:30'
 duration: 50
 filmed: false
-description: 'ARRIVAL, REGISTRATION, REFRESHMENTS & NETWORKING in Foyer'
+description: |-
+  Arrival, Registration, Refreshments & Networking
+  Foyer
+  09:30-10:20
 ---
 
