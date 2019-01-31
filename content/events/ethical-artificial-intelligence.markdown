@@ -1,5 +1,5 @@
 ---
-title: 'A: Ethical Artificial Intelligence'
+title: Ethical Artificial Intelligence
 speaker: 'Andy Helliwell, Dr Melanie Smallman, Kriti Sharma, Ben Garfinkel, Reema Patel'
 strand: Future Workplace
 venue: C8
