@@ -1,6 +1,6 @@
 ---
-title: 'NEW TECHNOLOGIES & THE CIVIL SERVICE '
-speaker: 'Jackie Wright (20th), Kevin Cunnington + Kriti Sharma (21st)'
+title: 'A: Future Technology & the Civil Service'
+speaker: 'Jackie Wright (20th), Kevin Cunnington & Kriti Sharma (21st)'
 strand: Future Workplace
 venue: C8/9
 time: '10:45'
@@ -8,15 +8,36 @@ duration: 55
 filmed: true
 slides: /uploads/img_0063.jpg
 description: >
-  1045-1145: Headline session: The Civil Service and Future Technology (Day 1)
+  Future Technology & the Civil Service
 
-  Speaker: Jacky Wright
+  Strand 1 Headline Discussion
 
+  Jacky Wright (20th), Kevin Cunnington & Kriti Sharma (21st)
+
+  10:45-11:45
 
   170 Spaces
 
 
-  Biography - Jacky Wright
+  Session Content
+
+
+  New technologies have the potential to radically transform the design,
+  delivery and impact of public services. The effects on people and ways of
+  working are set to be enormous. The Civil Service needs to keep pace with this
+  unprecedented rate of change, and ensure that the benefits of new digital
+  tools and emerging technologies are properly harnessed. This requires staff
+  from across the spectrum – not just a narrow group of experts – to understand
+  and engage with these new realities. At the same time, policymakers need to
+  navigate any false hype and pseudo-capabilities to ensure that new technology
+  actually delivers on Civil Service priorities, and is not seen as a catch-all
+  panacea. In this session, delegates will hear from a leading expert about the
+  future of technology within the Civil Service, and the challenges involved in
+  navigating the changes ahead.
+
+
+  Jacky Wright
+
 
   Jacky joined HMRC in October 2017 from a private sector background. Jacky is
   well known in the industry as a senior executive who is a transformational
@@ -33,12 +54,8 @@ description: >
   estates in the UK, and implementing HMRC’s pioneering IT Sourcing Strategy.
 
 
-  1045-1145: headline session: The Civil Service And Future Technology (Day 2)
+  Kevin Cunnington
 
-  Speakers: Kevin Cunnington and Kriti Sharma
-
-
-  Biography – Kevin Cunnington
 
   Kevin has led a variety of large scale, and global, digital transformation
   programmes. He spent his early career in programming and IT consultancy. More
@@ -49,7 +66,8 @@ description: >
   Cabinet Office’s Executive Committee.
 
 
-  Biography – Kriti Sharma
+  Kriti Sharma
+
 
   Kriti Sharma is an Artificial Intelligence technologist and a leading global
   voice on AI ethics and its impact on society. In addition to advising global
@@ -68,21 +86,5 @@ description: >
 
   Kriti was appointed a United Nations Young Leader at the General Assembly in
   2018.
-
-
-  Session content (Day 1 and Day 2)
-
-  New technologies have the potential to radically transform the design,
-  delivery and impact of public services. The effects on people and ways of
-  working are set to be enormous. The Civil Service needs to keep pace with this
-  unprecedented rate of change, and ensure that the benefits of new digital
-  tools and emerging technologies are properly harnessed. This requires staff
-  from across the spectrum – not just a narrow group of experts – to understand
-  and engage with these new realities. At the same time, policymakers need to
-  navigate any false hype and pseudo-capabilities to ensure that new technology
-  actually delivers on Civil Service priorities, and is not seen as a catch-all
-  panacea. In this session, delegates will hear from a leading expert about the
-  future of technology within the Civil Service, and the challenges involved in
-  navigating the changes ahead.
 ---
 
