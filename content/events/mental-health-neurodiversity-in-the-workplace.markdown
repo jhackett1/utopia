@@ -4,7 +4,7 @@ speaker: Dr Barbara Mariposa
 strand: Future Leaders
 venue: C13
 time: '11:45'
-duration: 45
+duration: 55
 filmed: false
 description: >
   Mental Health & Neurodiversity in the Workplace
