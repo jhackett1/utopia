@@ -1,5 +1,5 @@
 ---
-title: 'B: Tackling Invisible Barriers - The Role of Government'
+title: Tackling Invisible Barriers - The Role of Government
 speaker: 'Lord Wei (20th),  Dame Vivian Hunt (21st)'
 strand: Future Workforce
 venue: C17
