@@ -1,5 +1,5 @@
 ---
-title: 'C: Leading the Future Civil Service'
+title: Leading the Future Civil Service
 speaker: 'Moderator: Greg Hobbs'
 strand: Future Leaders
 venue: C8/9
