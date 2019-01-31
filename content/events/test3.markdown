@@ -1,5 +1,5 @@
 ---
-title: 'B: Are You Disability Confident?'
+title: Are You Disability Confident?
 speaker: 'Keith Knight & Ray Dempsey '
 strand: Future Workforce
 venue: C11
