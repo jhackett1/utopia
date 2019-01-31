@@ -1,5 +1,5 @@
 ---
-title: 'B: Managing Diverse Teams - Barriers to Inclusion'
+title: Managing Diverse Teams - Barriers to Inclusion
 speaker: Helen Jamieson
 strand: Future Workforce
 venue: C13
