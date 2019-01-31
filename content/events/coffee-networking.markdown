@@ -1,8 +1,8 @@
 ---
-title: COFFEE & NETWORKING
+title: Coffee & Networking
 speaker: NA
 strand: All
-venue: C12
+venue: Foyer & C12
 time: '15:30'
 duration: 45
 filmed: false
