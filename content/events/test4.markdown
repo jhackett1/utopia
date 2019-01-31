@@ -1,5 +1,5 @@
 ---
-title: 'C: Maximising Social Impact in your Civil Service Career'
+title: Maximising Social Impact in your Civil Service Career
 speaker: HIPE
 strand: Future Leaders
 venue: C13
