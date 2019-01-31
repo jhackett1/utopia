@@ -1,5 +1,5 @@
 ---
-title: 'C: Fast Stream Fact vs Fiction'
+title: Fast Stream Fact vs Fiction
 speaker: Greg Hobbs
 strand: Future Leaders
 venue: C13
