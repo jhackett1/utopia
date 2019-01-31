@@ -6,12 +6,12 @@ venue: C17
 time: '13:45'
 duration: 45
 filmed: true
-description: >+
+description: >
   Career Coaching Surgery
 
   Speaker: Coach Dumi Senda
 
-  14:45-15:30
+  13:45-14:30
 
   10 Spaces
 
