@@ -1,5 +1,5 @@
 ---
-title: 'D: Mental Health & Neurodiversity in the Workplace'
+title: Mental Health & Neurodiversity in the Workplace
 speaker: Dr Barbara Mariposa
 strand: Future Leaders
 venue: C13
