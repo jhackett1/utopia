@@ -1,5 +1,5 @@
 ---
-title: 'D: Career Coaching Surgery'
+title: Career Coaching Surgery
 speaker: Coach Dumi Senda
 strand: Future Leaders
 venue: C17
