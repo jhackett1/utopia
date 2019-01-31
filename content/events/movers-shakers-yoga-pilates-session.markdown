@@ -1,5 +1,5 @@
 ---
-title: 'D: Movers & Shakers - Yoga/Pilates Session'
+title: Movers & Shakers - Yoga/Pilates Session
 speaker: 'Chloé Delanney (20th), Fayola Saunders (21st)'
 strand: Future Leaders
 venue: C11
