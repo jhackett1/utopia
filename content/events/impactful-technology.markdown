@@ -1,5 +1,5 @@
 ---
-title: 'B: Impactful Technology'
+title: Impactful Technology
 speaker: Centre for Public Impact
 strand: Future Workplace
 venue: C13
