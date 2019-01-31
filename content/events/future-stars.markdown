@@ -1,5 +1,5 @@
 ---
-title: 'E: Rising Stars & Espionage'
+title: Rising Stars & Espionage
 speaker: Centre for the Protection of National Infrastructure
 strand: Future Leaders
 venue: C9
