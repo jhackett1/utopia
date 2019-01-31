@@ -1,5 +1,5 @@
 ---
-title: LUNCH & NETWORKING
+title: Lunch & Networking
 speaker: NA
 strand: All
 venue: Foyer
