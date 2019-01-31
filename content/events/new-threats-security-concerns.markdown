@@ -1,5 +1,5 @@
 ---
-title: 'A: New Threats and Security Concerns'
+title: New Threats and Security Concerns
 speaker: National Cyber Security Centre
 strand: Future Workplace
 venue: C11
