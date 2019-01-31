@@ -1,26 +1,23 @@
 ---
-title: NEW THREATS & SECURITY CONCERNS
+title: 'A: New Threats and Security Concerns'
 speaker: National Cyber Security Centre
 strand: Future Workplace
 venue: C11
 time: '16:15'
 duration: 45
-filmed: true
+filmed: false
 description: >
-  1615-1700: New Threats & Security Concerns
+  New Threats & Security Concerns
 
-  Speakers: National Cyber Security Centre
+  National Cyber Security Centre
+
+  16:15-17:00
 
   40 Spaces
 
 
-  Biography
+  Session Content
 
-  The National Cyber Security Centre (NCSC) provides advice and support for the
-  public and private sector in how to avoid computer security threats. Its
-  parent organisation is GCHQ. 
-
-  Session content
 
   The UK faces a sustained threat from hostile state actors and cyber criminals.
   The NCSC defends the UK from over 10 attacks every week. Malicious cyber
@@ -36,5 +33,13 @@ description: >
   from cyber warfare, emerging threats and the struggle for digital supremacy
   through to the challenges faced by those working to keep people and systems
   safe.
+
+
+  NCSC
+
+
+  The National Cyber Security Centre (NCSC) provides advice and support for the
+  public and private sector in how to avoid computer security threats. Its
+  parent organisation is GCHQ.
 ---
 
