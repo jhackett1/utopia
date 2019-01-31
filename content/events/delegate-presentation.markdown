@@ -1,5 +1,5 @@
 ---
-title: 'E: Delegate Presentation'
+title: Delegate Presentation
 speaker: Tbc
 strand: Future Leaders
 venue: C12
