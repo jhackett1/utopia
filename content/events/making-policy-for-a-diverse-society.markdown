@@ -1,5 +1,5 @@
 ---
-title: MAKING POLICY FOR A DIVERSE SOCIETY
+title: 'C: Making Policy for a Diverse Society'
 speaker: Vivienne Aiyela
 strand: Future Workforce
 venue: C8/9
@@ -7,14 +7,17 @@ time: '11:45'
 duration: 55
 filmed: true
 description: >
-  1145-1240: MAKING POLICY FOR A DIVERSE SOCIETY
+  Making Policy for a Diverse Society
 
   Speaker: Vivienne Aiyela
+
+  11:45-12:40
 
   120 Spaces
 
 
-  Biography - Vivienne Aiyela
+  Vivienne Aiyela
+
 
   Vivienne is  visionary leader who is a Game Changer and Strategist who is a
   catalyst for human growth, with a focus on vision and values and is passionate
