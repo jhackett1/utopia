@@ -1,5 +1,5 @@
 ---
-title: Career Coaching Surgery
+title: 'A: Career Coaching Surgery'
 speaker: Coach Dumi Senda
 strand: Future Leaders
 venue: C17
@@ -7,14 +7,17 @@ time: '13:45'
 duration: 45
 filmed: true
 description: >+
-  1445-1530: CAREER COACHING SURGERY
+  Career Coaching Surgery
 
   Speaker: Coach Dumi Senda
+
+  14:45-15:30
 
   10 Spaces
 
 
   Session Content
+
 
   This session will focus on helping Fast Streamers leverage their Personal
   Power on your career journeys. It will be based on a framework Dumi uses for
@@ -27,12 +30,26 @@ description: >+
 
   The outcomes of the coaching sessions will centre around:
 
-  Gaining a clear sense of self: how to live a life of purpose and impact
+  - Gaining a clear sense of self: how to live a life of purpose and impact
 
-  Overcoming limiting beliefs 
+  - Overcoming limiting beliefs 
 
-  Dealing with conflict  
+  - Dealing with conflict  
 
-  Communicating your impact
+  - Communicating your impact
+
+
+  Coach Dumi Senda
+
+
+  In just four years Dumi went from menial labour with no prospects to Oxford
+  University Master’s Graduate, Global Inclusion Expert and sought-after Career
+  Coach.
+
+  He is an internationally-recognised Diversity & Inclusion expert, with over a
+  decade of experience working with International organisations such as the UN
+  as well as grassroots organisations on strategies and frameworks for racial,
+  ethnic, gender and other forms of equality. Beyond this, he is a motivational
+  speaker, author and award-winning poet.
 ---
 
