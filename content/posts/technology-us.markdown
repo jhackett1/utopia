@@ -18,4 +18,4 @@ In short, the impacts of new technologies are going to be huge, and we need to u
 
 In our conference we will explore the future of technology within public service, hear from experts about practical options for improving policy and delivery outcomes using digital, and explore the risks and challenges arising from the unprecedented rate of technological change.
 
-_Daniel Schlappa, Future Workplace lead_
+_Daniel Schlappa, Future Workplace Lead_
