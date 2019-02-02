@@ -2,20 +2,20 @@
 title: The team
 order: 5
 ---
-Adam Smith - Committee Lead & Agenda Designer - European/Generalist
+Committee Lead & Agenda Designer -Adam Smith, European/Generalist
 
-Dan Schlappa - Future Workplace Lead - Houses of Parliament
+Future Workplace Lead - Dan Schlappa, Houses of Parliament
 
-Dami Gbadamosi - Future Workforce Lead - Generalist
+Future Workforce Lead - Dami Gbadamosi, Generalist
 
-Chloe Cheung - Future Leaders Lead - Generalist
+Future Leaders Lead - Chloe Cheung, Generalist
 
-Mamataj Begum - Delegate Communications Lead - Generalist
+Delegate Communications Lead - Mamataj Begum, Generalist
 
-Natalia Cruz Fajardo - Finance Lead & Partners Liaison - Finance
+Finance Lead & Partners Liaison - Natalia Cruz Fajardo, Finance
 
-Mumdood Passa - Logistics Lead - Generalist
+Logistics Lead - Mumdood Passa, Generalist
 
-Hamish Inglis - Project Office - Project Delivery
+Project Office - Hamish Inglis, Project Delivery
 
-Josh Hackett - Digital Partner - DDaT
+Digital Partner - Josh Hackett, DDaT
