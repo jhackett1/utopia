@@ -14,12 +14,12 @@ So, you’re a Fast Streamer.
 
 ![null](/uploads/copy-of-copy-of-copy-of-copy-of-utopia-experimenting-1-.png)
 
-`Now more than ever, public sector workers must deliver more with finite resources. Creativity is demanded of us as leaders to come up with the best and most effective solutions while weighing up costs and benefits. To get the best out of our teams, we must ensure that diversity of thought is encouraged to thrive, welcoming critical challenge and therefore avoiding groupthink. `
+`Now more than ever, public sector workers must deliver more with finite resources. Creativity is demanded of us as leaders to come up with the best and most effective solutions while weighing up costs and benefits. To get the best out of our teams, we must ensure that diversity of thought is encouraged to thrive, welcoming critical challenge and therefore avoiding groupthink.`
 
-`We must also be able to scan the horizon of developments in technology, which can revolutionise our ways of working, whilst also being mindful of the security risks and the disruption that can arise. There have been few other as exciting times to be a part of the Civil Service. `
+`We must also be able to scan the horizon of developments in technology, which can revolutionise our ways of working, whilst also being mindful of the security risks and the disruption that can arise. There have been few other as exciting times to be a part of the Civil Service.`
 
-`Our sessions will offer you practical tools to navigate professional life, with a focus on resilience, self-reflection, making an impact, and individual empowerment. At few other conferences would you be able to combine pilates with mindfulness, as well as career coaching and networking with experts who have confronted similar ambiguities as you are facing now as an early career professional. `
+`Our sessions will offer you practical tools to navigate professional life, with a focus on resilience, self-reflection, making an impact, and individual empowerment. At few other conferences would you be able to combine pilates with mindfulness, as well as career coaching and networking with experts who have confronted similar ambiguities as you are facing now as an early career professional.`
 
-`There is no secret formula to becoming a great leader overnight, but we certainly hope that Utopia will give you food for thought. `
+`There is no secret formula to becoming a great leader overnight, but we certainly hope that Utopia will give you food for thought.`
 
-_`Chloe Cheung, Future Leaders lead`_
+_`Chloe Cheung, Future Leaders Lead`_
