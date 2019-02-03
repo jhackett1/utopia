@@ -23,7 +23,7 @@ export default ({speakers}) =>
                     </li>
                 )}
                 <li className={styles.moreSpeakers}>
-                    <span className={styles.moreSpeakersNumber}>+15</span>
+                    <span className={styles.moreSpeakersNumber}>+30</span>
                     <p className={styles.moreSpeakersText}>More speakers from across the public and private sectors</p>
                 </li>
             </ul>
