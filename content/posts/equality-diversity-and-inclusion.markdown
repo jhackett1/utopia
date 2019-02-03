@@ -16,4 +16,4 @@ Ultimately the workplace of the future will be shaped by technology and we must 
 
 Utopia aims to start this important conversation, challenge your thinking on D&I but above all give you practical ways to be an ally, champion and inclusive colleague.
 
-_Damilola Gbadamosi, Future Workforce lead_
+_Damilola Gbadamosi, Future Workforce Lead_
