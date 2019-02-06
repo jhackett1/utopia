@@ -50,7 +50,7 @@ export const pageQuery = graphql`
     }
     speakers: allMarkdownRemark(
       filter: {fileAbsolutePath: {regex: "/speakers/.*$/"}},
-      sort: { order: ASC, fields: [frontmatter___order] }
+      sort: { order: DESC, fields: [frontmatter___order] }
     ) {
       edges {
         node {
