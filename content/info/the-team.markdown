@@ -2,7 +2,7 @@
 title: The team
 order: 5
 ---
-Committee Lead & Agenda Designer -Adam Smith, European/Generalist
+Committee Lead & Agenda Designer - Adam Smith, European/Generalist
 
 Future Workplace Lead - Dan Schlappa, Houses of Parliament
 
