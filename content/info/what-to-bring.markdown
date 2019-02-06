@@ -2,7 +2,7 @@
 title: What to bring
 order: 3
 ---
-Your cross-Government pass. If you do not have one, please make us aware at least a week before Utopia (so that we can inform the venue) and bring ID.
+Your cross-Government pass. If you do not have one, please make us aware at least a week before Utopia (so that we can inform the venue) and bring ID. Do this via email to 'faststream.conference@faststream.civilservice.gov.uk' with the subject line 'No xGovt Pass'.
 
 A lanyard. Utopia is a "bring-your-own-lanyard" conference.
 
