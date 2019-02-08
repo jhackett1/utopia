@@ -1,5 +1,5 @@
 ---
-title: Impactful Technology
+title: 'Government, Technology & Impact'
 speaker: Centre for Public Impact
 strand: Future Workplace
 venue: C13
