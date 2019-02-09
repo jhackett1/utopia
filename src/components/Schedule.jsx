@@ -20,14 +20,14 @@ export default class extends React.Component{
             ))
         )
         // Sort events into strand order
-        events = events.sort((a, b)=>{
+        let events = this.props.events.sort((a, b)=>{
             var aStrand = a.node.frontmatter.strand.toUpperCase();
             var bStrand = b.node.frontmatter.strand.toUpperCase();
             return (aStrand < bStrand) ? -1 : (aStrand > bStrand) ? 1 : 0;
         })
         // For each time, populate with events of that time
         times.map((time)=>{
-            return time.events = this.props.events.filter((event)=>{
+            return time.events = events.filter((event)=>{
                 return event.node.frontmatter.time === time.time
             })
         })
