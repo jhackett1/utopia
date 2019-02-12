@@ -11,17 +11,17 @@ explanationSubheadline: >-
   Civil Service, embrace a meaningful approach to diversity and inclusion, and
   empower you with the resilience to forge an impactful career.
 when: 20th & 21st February 2019
-where: 'BEIS Conference Centre, 1 Victoria Street, SW1E 5ND'
+where: 'County Hall, Belvedere Road, London SE1 7PB'
 testimonial: >-
   The world is changing. And it's changing in ways that, as a Civil Service, we
   can't afford to ignore.
 citationName: Sir Jeremy Heywood & John Manzoni
 citationRole: June 2016
-address: 'BEIS Conference Centre, 1 Victoria Street, SW1E 5ND'
+address: 'County Hall, Belvedere Road, London SE1 7PB'
 venueInfo: >-
   The conference centre is a large and modern venue, which is fully accessible
-  and conveniently located in central London. The nearest tube station is St.
-  James's Park.
+  and conveniently located in central London. The nearest tube stations are
+  Westminster, Waterloo & Lambeth North.
 registerInfo: We'll be welcoming 250 Fast Streamers on each day. Book your place now.
 ---
 
