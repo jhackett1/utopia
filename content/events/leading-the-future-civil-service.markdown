@@ -2,7 +2,7 @@
 title: Leading the Future Civil Service
 speaker: 'Moderator: Greg Hobbs'
 strand: Future Leaders
-venue: C8/9
+venue: Waterloo Suite
 time: '16:15'
 duration: 60
 filmed: true
