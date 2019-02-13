@@ -2,7 +2,7 @@
 title: Closing Remarks from Greg Hobbs
 speaker: Gregg Hobbs
 strand: All
-venue: C8/9
+venue: Waterloo Suite
 time: '17:15'
 duration: 15
 filmed: true
