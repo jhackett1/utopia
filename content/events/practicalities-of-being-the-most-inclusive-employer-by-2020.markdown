@@ -4,7 +4,7 @@ speaker: >-
   Sir Richard Heaton, Bernadette Kelly, Jacqui Gavin, Hamid Motraghi, Junior
   Johnson (21st)
 strand: Future Workforce
-venue: C9
+venue: Mayor
 time: '14:45'
 duration: 45
 filmed: false
