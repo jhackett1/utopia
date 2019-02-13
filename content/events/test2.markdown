@@ -1,8 +1,8 @@
 ---
-title: Future Technology & the Civil Service
+title: New Technologies & the Civil Service
 speaker: 'Jackie Wright (20th), Kevin Cunnington & Kriti Sharma (21st)'
 strand: Future Workplace
-venue: C8/9
+venue: Waterloo Suite
 time: '10:45'
 duration: 55
 filmed: true
