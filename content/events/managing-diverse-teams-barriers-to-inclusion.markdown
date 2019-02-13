@@ -2,7 +2,7 @@
 title: Managing Diverse Teams - Barriers to Inclusion
 speaker: Helen Jamieson
 strand: Future Workforce
-venue: C13
+venue: Duchess
 time: '16:15'
 duration: 45
 filmed: false
