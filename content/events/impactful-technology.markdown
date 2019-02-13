@@ -2,12 +2,12 @@
 title: 'Government, Technology & Impact'
 speaker: Centre for Public Impact
 strand: Future Workplace
-venue: C13
+venue: Duchess
 time: '13:45'
 duration: 45
 filmed: false
 description: >-
-  Impactful Technology
+  Government, Technology & Impact
 
   Facilitators from the Centre for Public Impact
 
