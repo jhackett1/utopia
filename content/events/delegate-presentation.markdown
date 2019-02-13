@@ -2,7 +2,7 @@
 title: Delegate Presentation
 speaker: Tbc
 strand: Future Leaders
-venue: C12
+venue: Baroness
 time: '11:45'
 duration: 45
 filmed: false
