@@ -2,7 +2,7 @@
 title: Career Coaching Surgery 1
 speaker: Coach Dumi Senda
 strand: Future Leaders
-venue: C17
+venue: Baroness
 time: '13:45'
 duration: 45
 filmed: true
