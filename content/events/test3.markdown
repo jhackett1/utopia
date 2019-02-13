@@ -2,7 +2,7 @@
 title: Are You Disability Confident?
 speaker: 'Keith Knight & Ray Dempsey '
 strand: Future Workforce
-venue: C11
+venue: Baron
 time: '10:45'
 duration: 45
 filmed: true
