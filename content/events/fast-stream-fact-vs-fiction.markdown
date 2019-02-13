@@ -2,7 +2,7 @@
 title: Fast Stream Fact vs Fiction
 speaker: Greg Hobbs
 strand: Future Leaders
-venue: C13
+venue: Duchess
 time: '14:45'
 duration: 45
 filmed: false
