@@ -1,6 +1,6 @@
 ---
 title: View From the Outside - Why Does Civil Service Diversity Matter?
-speaker: 'Emma Green, Dr Naseer Siabi, Melanie Richards, Elliot Rae'
+speaker: 'Emma Green, Dr Nasser Siabi, Melanie Richards, Elliot Rae'
 strand: Future Workforce
 venue: Waterloo Suite
 time: '13:45'
