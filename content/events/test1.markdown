@@ -2,7 +2,7 @@
 title: Opening Words From Utopia's Sponsors
 speaker: NA
 strand: All
-venue: C8/9
+venue: Waterloo Suite
 time: '10:30'
 duration: 15
 filmed: true
