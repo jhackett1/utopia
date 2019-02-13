@@ -2,7 +2,7 @@
 title: Mental Health & Neurodiversity in the Workplace
 speaker: Dr Barbara Mariposa
 strand: Future Leaders
-venue: C13
+venue: Duchess
 time: '11:45'
 duration: 55
 filmed: false
