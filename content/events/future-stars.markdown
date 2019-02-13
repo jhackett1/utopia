@@ -2,7 +2,7 @@
 title: Rising Stars & Espionage
 speaker: Centre for the Protection of National Infrastructure
 strand: Future Leaders
-venue: C9
+venue: Mayor
 time: '13:45'
 duration: 45
 filmed: false
@@ -10,8 +10,6 @@ description: >
   Rising Stars & Espionage
 
   Centre for the Protection of National Infrastructure
-
-  C9
 
   13:45-14:30
 
