@@ -1,8 +1,8 @@
 ---
-title: Ethical Artificial Intelligence
+title: Artificial Intelligence - Ethics & Governance
 speaker: 'Andy Helliwell, Dr Melanie Smallman, Kriti Sharma, Ben Garfinkel, Reema Patel'
 strand: Future Workplace
-venue: C8
+venue: Waterloo Suite
 time: '14:45'
 duration: 45
 filmed: true
