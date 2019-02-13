@@ -2,7 +2,7 @@
 title: Maximising Social Impact in your Civil Service Career
 speaker: HIPE
 strand: Future Leaders
-venue: C13
+venue: Duchess
 time: '10:45'
 duration: 45
 filmed: true
