@@ -2,7 +2,7 @@
 title: New Threats and Security Concerns
 speaker: National Cyber Security Centre
 strand: Future Workplace
-venue: C11
+venue: Baron
 time: '16:15'
 duration: 45
 filmed: false
