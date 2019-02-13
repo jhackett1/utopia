@@ -1,8 +1,8 @@
 ---
-title: 'Arrival, Registration, Refreshments & Networking'
+title: 'Arrival, Registration, Breakfast & Networking'
 speaker: NA
 strand: All
-venue: Foyer
+venue: Knights Lounge
 time: '09:30'
 duration: 50
 filmed: false
