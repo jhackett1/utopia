@@ -2,7 +2,7 @@
 title: The Future of Government
 speaker: 'The Institute for Government - Jill Rutter, Gavin Freeguard & Lewis Lloyd'
 strand: Future Workplace
-venue: Baron
+venue: Waterloo Suite
 time: '11:45'
 duration: 55
 filmed: false
@@ -15,7 +15,7 @@ description: >
 
   11:45-12:45
 
-  40 Spaces
+  120 Spaces
 
 
   Session Content
