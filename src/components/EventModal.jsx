@@ -58,7 +58,7 @@ export default class extends React.Component{
                                     <p className={styles.eventDescription}>{this.props.event.description}</p>
                                     {(this.props.event.filmed) ? <p className={styles.eventInfo}>This event will be filmed.</p> : null}
                                     {(this.props.event.slides) ? <a className={styles.button} target="blank" href={this.props.event.slides}>Download slides</a> : null}
-                                    {(this.props.event.filmed) ? <Link className={styles.buttonOutline} to="https://civilservice.govintra.net/live-event/fset-webcast/">Go to live stream</Link> : null}
+                                    {(this.props.event.filmed) ? <a className={styles.buttonOutline} to="https://civilservice.govintra.net/live-event/fset-webcast/">Go to live stream</a> : null}
                                     {(thisSpeaker) ? <div className={styles.speakerFooter}>
                                         <img className={styles.speakerImage} src={thisSpeaker.image} alt={thisSpeaker.title}/>
                                         <h4 className={styles.speakerName} >{thisSpeaker.title}</h4>
