@@ -30,7 +30,7 @@ const Menu = ({vertical}) =>
                             <a
                                 className={styles.link}
                                 activeClassName={styles.activeLink}
-                                to="https://civilservice.govintra.net/live-event/fset-webcast/"
+                                href="https://civilservice.govintra.net/live-event/fset-webcast/"
                                 >Videos</a>
                         </li>
                  
