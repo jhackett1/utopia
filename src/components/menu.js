@@ -31,6 +31,7 @@ const Menu = ({vertical}) =>
                                 className={styles.link}
                                 activeClassName={styles.activeLink}
                                 href="https://civilservice.govintra.net/live-event/fset-webcast/"
+                                target="blank"
                                 >Videos</a>
                         </li>
                  
