@@ -1,5 +1,5 @@
 ---
-title: A Welcome from Greg Hobbs
+title: A Message from Greg Hobbs
 date: 2019-02-18T13:49:45.906Z
 ---
 Welcome to Utopia! I hope you are all energised by the agenda and looking forward to the opportunity to meet with your Fast Stream colleagues from across government. Usually, I’d have Whitehall there, but I’m hoping that this conference goes wider...
