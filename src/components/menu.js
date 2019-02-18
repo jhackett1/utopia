@@ -25,7 +25,7 @@ const Menu = ({vertical}) =>
                 <MenuItem href="/blog" label="Blog"/>
                 {(context.loggedIn)? 
                     <>
-                        <MenuItem href="/videos" label="Videos"/>
+                        <MenuItem href="https://civilservice.govintra.net/live-event/fset-webcast/" label="Videos"/>
                         <MenuItem href="/schedule" label="Schedule"/>
                         <MenuItem href="/info" label="Info"/>
                     </>
