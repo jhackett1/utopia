@@ -27,12 +27,7 @@ const Menu = ({vertical}) =>
                     <>
 
                          <li className={styles.item}>
-                            <a
-                                className={styles.link}
-                                activeClassName={styles.activeLink}
-                                href="https://civilservice.govintra.net/live-event/fset-webcast/"
-                                target="blank"
-                                >Videos</a>
+                            <a className={styles.link} href="https://civilservice.govintra.net/live-event/fset-webcast/" target="blank">Videos</a>
                         </li>
                  
                         <MenuItem href="/schedule" label="Schedule"/>
