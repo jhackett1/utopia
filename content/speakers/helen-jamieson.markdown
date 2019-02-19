@@ -1,7 +1,7 @@
 ---
-title: Helen Jamieson
-role: 'Founder and CEO of Jaluch, an HR Consultancy'
-image: /uploads/photo-helen-jamieson.jpg
+title: Treina Fabré
+role: Programme Manager at McKinsey & Company
+image: /uploads/treina-fabre.png
 order: 5
 ---
 
