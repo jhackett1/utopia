@@ -38,6 +38,34 @@ description: >-
   actionable tool to take into their everyday work.
 
 
+  Danny Buerkli
+   
+  Danny is a Director at the Centre for Public Impact (CPI), a not-for-profit
+  foundation founded by The Boston Consulting Group. CPI is dedicated to
+  improving the positive impact of governments around the world. In his role,
+  Danny oversees the foundation's research activities and many of its government
+  engagements. He has written and published on numerous topics of government and
+  public administration, including on the impact of Artificial Intelligence on
+  policymaking, on the use of service design in government and on government
+  effectiveness.
+   
+  Danny has been with the Centre for Public Impact since its launch. Prior to
+  joining CPI, he worked in think tanks and as a strategy consultant in BCG's
+  Berlin office where he focused on digital innovation.
+   
+  Elena Bagnera
+   
+  Elena Bagnera is a Programme Associate at the Centre for Public Impact (CPI),
+  a not-for-profit foundation founded by The Boston Consulting Group. CPI is
+  dedicated to improving the positive impact of governments around the world. In
+  her role, Elena conducts research on public sector reform and public service
+  transformation and she supports the organisation’s government engagements. She
+  has contributed to CPI’s work on government legitimacy and she is currently
+  leading a project on the Future of Government. Prior to joining CPI, she
+  worked in Human Rights Watch and at the Education Foundation, a small think
+  tank focusing on digital innovation.
+
+
   Margot Gagliani
 
 
