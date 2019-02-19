@@ -2,7 +2,7 @@
 title: 'Government, Technology & Impact'
 speaker: Centre for Public Impact
 strand: Future Workplace
-venue: Duchess
+venue: Mayor Suite
 time: '13:45'
 duration: 45
 filmed: false
