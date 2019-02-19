@@ -2,7 +2,7 @@
 title: Movers & Shakers - Yoga/Pilates Session
 speaker: 'Chloé Delanney (20th), Fayola Saunders (21st)'
 strand: Future Leaders
-venue: Baron
+venue: Duchess
 time: '13:45'
 duration: 45
 filmed: false
