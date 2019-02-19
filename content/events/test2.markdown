@@ -1,6 +1,6 @@
 ---
 title: New Technologies & the Civil Service
-speaker: 'Jackie Wright (20th), Kevin Cunnington & Kriti Sharma (21st)'
+speaker: 'Antony Collard (20th), Kevin Cunnington & Kriti Sharma (21st)'
 strand: Future Workplace
 venue: Waterloo Suite
 time: '10:45'
@@ -12,7 +12,7 @@ description: >
 
   Strand 1 Headline Discussion
 
-  Jacky Wright (20th), Kevin Cunnington & Kriti Sharma (21st)
+  Antony Collard (20th), Kevin Cunnington & Kriti Sharma (21st)
 
   10:45-11:45
 
@@ -36,22 +36,15 @@ description: >
   navigating the changes ahead.
 
 
-  Jacky Wright
+  Antony Collard
 
 
-  Jacky joined HMRC in October 2017 from a private sector background. Jacky is
-  well known in the industry as a senior executive who is a transformational
-  global leader and innovative technologist. She is passionate about the impact
-  innovation can have in truly transforming services for people and businesses
-  in a positive way and is proud to represent women and BAME in technology.
-
-
-  As HMRC’s Chief Digital and Information Officer (CDIO), Jacky is responsible
-  for all of the technology powering one of the biggest digitally-enabled
-  transformations anywhere in Europe. The CDIO leads HMRC’s digital and data
-  strategies and has significant involvement in the cross-government agenda. The
-  CDIO is also responsible for running one of the biggest and most complex IT
-  estates in the UK, and implementing HMRC’s pioneering IT Sourcing Strategy.
+  Antony is HMRC’s Director of Architecture & Innovation,. He has been part of
+  part of HMRC’s digital leadership team for some time in his role as Deputy
+  Director of HMRC digital delivery centres, leading a network of seven
+  state-of-the-art facilities around the UK. He has been involved in a range of
+  significant transformational initiatives, including the multi-channel digital
+  tax platform and RadLab that works with HMRC risking teams.
 
 
   Kevin Cunnington
