@@ -1,9 +1,7 @@
 ---
-title: Jacky Wright
-role: >-
-  Chief Digital and Information Officer for HMRC, and former Corporate Vice
-  President at Microsoft
-image: /uploads/jacky-wright.jpg
+title: Antony Collard
+role: 'HMRC Digital Leadership: Director of Architecture & Innovation'
+image: /uploads/antony-collard-director-of-architecture-and-innovation-228x300.jpg
 order: 28
 ---
 
