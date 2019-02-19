@@ -1,12 +1,12 @@
 ---
 title: Delegate Presentation
-speaker: 'Jack Victor (20th), Ivan Srbulov (21st)'
+speaker: 'Ivan Srbulov (20th), Jack Victor (21st)'
 strand: Future Leaders
 venue: Baroness
 time: '11:45'
 duration: 45
 filmed: false
-description: >
+description: >-
   Delegate Presentation
 
   *Utopia Special Feature*
@@ -18,19 +18,6 @@ description: >
 
   Wednesday 20th
 
-  'The Social Mobility Experience', Jack Victor (Future Workforce)
-
-
-  A session focussing on class and the importance of taking this invisible
-  factor into account in our diversity and inclusion efforts. It will explore
-  the benefits of doing so, and question the psychological and emotional effects
-  on the socially mobile individual, and the challenges they may face. Group
-  discussion will allow delegates to understand each other's lived experiences
-  of this phenomenon, and how best to support colleagues in this situation.
-
-
-  Thursday 21st
-
   'The Labour Productivity Problem', Ivan Srbulov (Future Workplace)
 
 
@@ -41,5 +28,18 @@ description: >
   economy or tech giants. From this foundation, delegates will discuss how this
   failure of traditional means to satisfactorily measure these outputs can have
   an impact on the evidence policy professionals rely on.
+
+
+  Thursday 21st
+
+  'The Social Mobility Experience', Jack Victor (Future Workforce)
+
+
+  A session focussing on class and the importance of taking this invisible
+  factor into account in our diversity and inclusion efforts. It will explore
+  the benefits of doing so, and question the psychological and emotional effects
+  on the socially mobile individual, and the challenges they may face. Group
+  discussion will allow delegates to understand each other's lived experiences
+  of this phenomenon, and how best to support colleagues in this situation.
 ---
 
