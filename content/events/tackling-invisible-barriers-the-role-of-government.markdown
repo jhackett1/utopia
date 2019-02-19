@@ -1,8 +1,8 @@
 ---
 title: >-
-  Tackling Inequality & Inclusion Barriers (20th) / Delivering Through Diversity
+  Delivering Through Diversity (20th) / Tackling Inequality & Inclusion Barriers
   (21st)
-speaker: 'Lord Wei (20th),  Treina Fabre (21st)'
+speaker: 'Treina Fabre (20th), Lord Wei (21st)'
 strand: Future Workforce
 venue: Countess
 time: '11:45'
@@ -16,23 +16,56 @@ description: >-
   20 Spaces
 
 
-  Lord Wei
-
-
-  The Rt Hon Lord Wei of Shoreditch is a peer with a background in business,
-  investing, and technology. His interest in helping to start up and think about
-  social enterprise led him to policy development and eventually being invited
-  in mid-2009 to enter the House of Lords.  He holds a number of external
-  commercial advisory and non-executive roles and runs a social enterprise,
-  Shoreditch Ventures. He has three areas of focus in his public work: social
-  reform, East Asia, and future cities.
-
-
   Treina Fabre
 
 
-  Treina is Engagement Manager at McKinsey & Company in Switzerland, and an
-  Harvard Alumna. She is one of the authors of Delivering through Diversity and
-  she is passionate about solving global challenges.
+  Treina Fabré is a Program Manager in the London office of McKinsey & Company
+  and
+
+  co-leads the Firm’s Diversity Matters research on the correlation between
+  diversity and
+
+  corporate financial performance. She joined McKinsey in 2011 after 10 years in
+  the
+
+  public and social sectors in the United States and United Kingdom. As a
+  consultant, she
+
+  has primarily served clients on strategy and transformational change.
+
+
+  Treina holds a Master of Public Policy and a Bachelor of Arts in Government,
+  both from
+
+  Harvard University. Prior to joining McKinsey, Treina was an Associate
+  Director of
+
+  Teach First UK where she led its research and development team and oversaw the
+  design
+
+  and implementation of its national leadership development and master’s in
+  education
+
+  leadership programs. She began her career as a middle school teacher with
+  Teach For
+
+  America in the Los Angeles Unified School District.
+
+
+  Lord Wei
+
+
+  Lord Wei is an English social entrepreneur with an interest in social reform.
+  He is the first British-born person of Chinese origin to have become a member
+  of the House of Lords, sitting as a Conservative. He was also the youngest
+  member of the House from 2010 to 2016. He was previously an adviser to the UK
+  Government on their Big Society project.
+
+
+  Lord Wei is the founding and former partner of the Shaftesbury Partnership, a
+  member of the founding team of Teach First and a former adviser at Absolute
+  Return For Kids. He is a former fellow of the Young Foundation. and a World
+  Economic Forum Young Global Leader. Lord Wei is also the Chairman of the
+  Conservative Friends of the Chinese.
 ---
 
